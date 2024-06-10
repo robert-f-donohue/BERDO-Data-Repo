@@ -9,25 +9,26 @@ def fix_encoding(text):
 
 
 def standardize_address_extended(address):
-    '''Input: list of addresses and standardizes the address formatting
-    Output: Standardized address formatted for use in the application'''
+    """
+    Input: list of addresses and standardizes the address formatting
+    Output: Standardized address formatted for use in the
+    """
 
     # Extend the patterns to include more address components
     patterns_extended = {
-        r'\bAve\b\.?': 'Ave',  # Matches "Ave" and "Ave." with "Ave"
-        r'\bAvenue\b': 'Ave',  # Matches "Avenue" with "Ave"
-        r'\bStreet\b': 'St',   # Matches "Street" with "St"
-        r'\bSt\b\.?': 'St',    # Matches "St" and "St." with "St"
-        r'\bHighway\b': 'Hwy', # Matches "Highway" with "Hwy"
-        r'\bHwy\b\.?': 'Hwy',  # Matches "Hwy" and "Hwy." with "Hwy"
-        r'\bRoad\b': 'Rd',     # Matches "Road" with "Rd"
-        r'\bRd\b\.?': 'Rd',    # Matches "Rd" and "Rd." with "Rd"
-        r'\bBoulevard\b': 'Blvd', # Matches "Boulevard" with "Blvd"
-        r'\bBlvd\b\.?': 'Blvd',   # Matches "Blvd" and "Blvd." with "Blvd"
-        r'\bDrive\b': 'Dr',    # Matches "Drive" with "Dr"
-        r'\bDr\b\.?': 'Dr',    # Matches "Dr" and "Dr." with "Dr"
-        r'\bParkway\b': 'Pkwy',
-        # Add more patterns as needed
+        r'\bAve\b\.?': 'Ave',      # Matches "Ave" and "Ave." with "Ave"
+        r'\bAvenue\b': 'Ave',      # Matches "Avenue" with "Ave"
+        r'\bStreet\b': 'St',       # Matches "Street" with "St"
+        r'\bSt\b\.?': 'St',        # Matches "St" and "St." with "St"
+        r'\bHighway\b': 'Hwy',     # Matches "Highway" with "Hwy"
+        r'\bHwy\b\.?': 'Hwy',      # Matches "Hwy" and "Hwy." with "Hwy"
+        r'\bRoad\b': 'Rd',         # Matches "Road" with "Rd"
+        r'\bRd\b\.?': 'Rd',        # Matches "Rd" and "Rd." with "Rd"
+        r'\bBoulevard\b': 'Blvd',  # Matches "Boulevard" with "Blvd"
+        r'\bBlvd\b\.?': 'Blvd',    # Matches "Blvd" and "Blvd." with "Blvd"
+        r'\bDrive\b': 'Dr',        # Matches "Drive" with "Dr"
+        r'\bDr\b\.?': 'Dr',        # Matches "Dr" and "Dr." with "Dr"
+        r'\bParkway\b': 'Pkwy',    # Matches "Parkway" with "Pkwy"
     }
     # Iterate over the patterns and apply the replacements
     for pattern, replacement in patterns_extended.items():
@@ -36,7 +37,7 @@ def standardize_address_extended(address):
     return address
 
 
-def filter_empty_datasets(group):
+def filter_empty_datasets(grouping):
     """
         Filters a DataFrame group to check if it contains data in "Total Site Energy Usage (kBtu)" column.
 
@@ -47,10 +48,10 @@ def filter_empty_datasets(group):
         DataFrame: The same group if it meets the criteria (contains data in desired column),
                    otherwise returns None.
         """
-    if group['Total Site Energy Usage (kBtu)'].dropna().empty:
+    if grouping['Total Site Energy Usage (kBtu)'].dropna().empty:
         return None
     else:
-        return group
+        return grouping
 
 
 def check_for_duplicates(df, column_name):
@@ -103,6 +104,12 @@ columns_to_drop_2022 = ['Building Address City', 'Parcel Address City', 'Reporte
 # Two DataFrames with 2022 and 2023 data without unnecessary columns
 df_with_drop_2023 = df_2023.drop(columns_to_drop_2023, axis=1)
 df_with_drop_2022 = df_2022.drop(columns_to_drop_2022, axis=1)
+
+# Remove column for water data that is unable to be removed due to decoding
+column_index = 25
+df_with_drop_2022 = df_with_drop_2022.drop(df_with_drop_2022.columns[column_index], axis=1)
+df_with_drop_2023 = df_with_drop_2023.drop(df_with_drop_2023.columns[column_index], axis=1)
+
 
 # Fill empty cells in Building Address column with an empty string
 df_with_drop_2022['Building Address'] = df_with_drop_2022['Building Address'].fillna('')
@@ -194,7 +201,7 @@ df_berdo_not_reported_2022 = pd.concat(berdo_not_reported_list_2022)
 # Add a Data Year column to df_berdo_reported and make it 2021
 df_berdo_reported_2022['Data Year'] = 2021
 
-# Concatenate the data that was reported in neither 2022 or 2023
+# Concatenate the data that was reported in neither 2022 nor 2023
 df_berdo_never_reported = pd.concat([df_berdo_never_reported_1, df_berdo_not_reported_2022], axis=0)
 df_berdo_never_reported = df_berdo_never_reported.sort_values(by='BERDO ID', ascending=True)
 
@@ -262,6 +269,3 @@ df_berdo_never_reported.to_csv('../data-files/2-berdo_never_reported.csv', index
 # # Checking for duplicate values in dataset
 duplicate_ids_2022 = check_for_duplicates(df_berdo_reported_2022, 'BERDO ID')
 duplicate_ids_2023 = check_for_duplicates(df_berdo_reported_2023, 'BERDO ID')
-
-
-
