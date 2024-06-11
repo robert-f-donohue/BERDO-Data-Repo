@@ -1,337 +1,337 @@
-BERDO ID,Tax Parcel ID,Property Owner Name,Building Address,Building Address Zip Code,Parcel Address,Parcel Address Zip Code,Reported Gross Floor Area (Sq Ft),Largest Property Type,All Property Types,Site EUI (Energy Use Intensity kBtu/ft2),Total Site Energy Usage (kBtu),Natural Gas Usage (kBtu),Electricity Usage (kBtu),Renewable System Electricity Usage Onsite (kBtu),District Hot Water Usage (kBtu),District Chilled Water Usage (kBtu),District Steam Usage (kBtu),Fuel Oil 1 Usage (kBtu),Fuel Oil 2 Usage (kBtu),Fuel Oil 4 Usage (kBtu),Fuel Oil 5 and 6 Usage (kBtu),Propane Usage (kBtu),Diesel Usage (kBtu),Kerosene Usage (kBtu),Cooresponding Campus ID,Unnamed: 40,Data Year
-100011,0306234010,1000 washington (boston),1000-1020 Washington St,02118,321 Harrison Av,2118.0,274560.0,Office,"Laboratory,Parking",46.3,12710230.2,,11118343.2,,,,,,,,,,,,,,2021
-100017,0304717000,101bos llc,100-102 Tremont St,02108,75  59 Bromfield St,2108.0,78608.0,Office,"Office, Restaurant",121.8,9575445.3,4659840.3,4915603.6,,,,,,,,,,,,,,2021
-100025,2100753000,1139 commonwealth llc mass llc,1139 Commonwealth Ave,02134,1139 Commonwealth Av,2134.0,23830.0,Multifamily Housing,Multifamily Housing,79.9,1903822.2,1727718.7,176103.6,,,,,,,,,,,,,,2021
-100030,0703576000,1246 mass ave llc,1246-1250 Massachusetts Ave,02125,1246 Massachusetts Av,2125.0,26140.0,Manufacturing/Industrial Plant,,205.7,5377084.2,3746099.8,1630984.5,,,,,,,,,,,,,,2021
-100043,0304692050,14 beacon street llc,14 14A Beacon St,02108,14 14A Beacon St,2108.0,88203.0,Office,"Library, Office",33.3,2935311.2,1554590.8,1380720.4,,,,,,,,,,,,,,2021
-100093,0305364005,245 summer street llc,245 Summer St,02210,245 Summer St,2210.0,906422.0,Office,"Data Center, Financial Office, Office, Restaurant",76.7,69545726.9,13937549.2,54643418.8,,,,,,964758.1,,,,,,,,2021
-100105,1600589000,286 adams street llc,286 Adams St,02122,101 Park St,2122.0,27060.0,"Repair Services (Vehicle, Shoe, Locksmith, etc)","Repair Services (Vehicle, Shoe, Locksmith, etc)",27.7,749174.3,366808.5,382365.8,,,,,,,,,,,,,,2021
-100111,0304947000,30 kneeland llc,24-44 Kneeland St,02111,24  44 Kneeland St,2111.0,20218.0,Office,,75.9,1535112.8,716400.0,818712.8,,,,,,,,,,,,,,2021
-100119,1102013000,3193 washington development llc,3193-3201 Washington St,02130,3193  3201 Washington St,2130.0,45710.0,Multifamily Housing,,26.0,1188039.5,489900.0,698139.6,,,,,,,,,,,,,,2021
-100122,0104128000,320 maverick place condominium  trust,320 Maverick St,02128,320 Maverick St,2128.0,16537.0,Multifamily Housing,,86.4,1427984.6,884900.0,543084.6,,,,,,,,,,,,,,2021
-100123,1102371010,3200 washington street llc,3190  3204 Washington St,02130,3190  3204 Washington St,2130.0,107000.0,Multifamily Housing,"Multifamily Housing,Office,Parking,Restaurant",28.5,3049725.9,256400.0,2793325.9,,,,,,,,,,,,,,2021
-100125,1102589000,3383 holdings llc,3385-3389 Washington St,02130,3383 - 3389R Washington St,2130.0,27633.0,Multifamily Housing,Multifamily Housing,29.9,825127.7,308800.0,516327.7,,,,,,,,,,,,,,2021
-100133,0602653010,370 congress street llc,368 Congress St,02210,368 Congress St,2210.0,99726.0,Hotel,Hotel,57.0,5683288.4,2255526.2,3427763.4,,,,,,,,,,,,,,2021
-100146,0602642060,399 congress llc,399 Congress St,02210,399 Congress St,2210.0,481242.0,Multifamily Housing,,28.2,13555924.0,0.0,13555923.8,,,,,,,,,,,,,,2021
-100149,0303830000,4 liberty ma llc,99-107 Water St,02109,4 Liberty Sq,2109.0,26250.0,Office,"Office, Other - Restaurant/Bar",44.1,1158617.9,599200.0,559417.9,,,,,,,,,,,,,,2021
-100171,0801138000,46 pplympton acquisition llc,61-63 Wareham St,02118,61  63 Wareham St,2118.0,28600.0,Office,Office,29.9,853994.4,,231534.9,,,,,,622459.5,,,,,,,,2021
-100179,1400116000,50 ceylon street llc,50-80 Ceylon St,02121,50 Ceylon St,2121.0,20238.0,Non-Refrigerated Warehouse,Non-Refrigerated Warehouse,17.0,343916.1,,300116.1,,,,,,,43800.0,,,,,,,2021
-100195,1401292000,56-58 bowdoin avenue llc,56-58 Bowdoin Ave,02121,56  58 Bowdoin Av,2121.0,31570.0,Multifamily Housing,Multifamily Housing,42.2,1333821.8,955100.0,378721.8,,,,,,,,,,,,,,2021
-100203,0602678701,601 congress ma llc  lessee,601 Congress St,02210,601 Congress St,2210.0,446760.0,Financial Office,"Data Center,Financial Office,Parking",29.2,13063405.2,31000.0,13032403.5,,,,,,,,,,,,,,2021
-100211,0501413000,66 beacon street holdings  llc,65-66H Beacon St,02108,65 66H Beacon St,2108.0,28800.0,Multifamily Housing,"Multifamily Housing, Retail Store",94.6,2723269.8,1994900.0,728369.9,,,,,,,,,,,,,,2021
-100220,0402600000,715-725 tremont street condominium trust,725-743 Tremont St,02118,725 Tremont St,2118.0,133677.0,Multifamily Housing,Multifamily Housing,47.0,6280859.8,4880534.1,1400325.7,,,,,,,,,,,,,,2021
-100223,0402660000,715-725 tremont street condominium trust,705-723 Tremont St,02118,715 Tremont St,2118.0,133677.0,Multifamily Housing,Multifamily Housing,44.7,5979780.7,4348800.3,1630980.4,,,,,,,,,,,,,,2021
-100234,0401037800,776 - 778 boylston primary,772-778 Boylston St,02116,772  778 Boylston St,2116.0,452336.0,Multifamily Housing,"Bar/Nightclub, Hotel, Multifamily Housing, Other - Mall, Restaurant, Social/Meeting Hall",110.8,50103269.5,1864600.0,27158346.3,,,,21012013.2,,,,,,68310.0,,,,2021
-100237,0602674003,8 seafood way llc - sub lessee,8 Seafood Wy,02210,8 Seafood Wy,2210.0,71350.0,Other,Other,80.6,5754368.7,,5754368.7,,,,,,,,,,,,,,2021
-100269,2009228010,abnote usa inc,225-227 Rivermoor St,02132,225 Rivermoor St,2132.0,125072.0,Manufacturing/Industrial Plant,Manufacturing/Industrial Plant,151.7,18976948.6,4069198.8,14907751.3,,,,,,,,,,,,,,2021
-100297,0304884000,action for boston community,178-179 Tremont St,02111,178  179 Tremont St,2111.0,51161.0,Office,Office,101.4,5189284.6,2616266.5,2573018.2,,,,,,,,,,,,,,2021
-100316,0802195020,adams orchard lps mass lps,25 Ambrose St,02119,25 Ambrose St,2119.0,64000.0,Multifamily Housing,Multifamily Housing,46.3,2966183.6,2140029.2,826154.4,,,,,,,,,,,,,,2021
-100375,1001628000,american cancer society,125 S Huntington Ave,02130,125 S Huntington Av,2199.0,50540.0,Hotel,,21.2,3596326.6,1798015.5,1798311.0,,,,,,,,,,,,,,2021
-"100382, 100383",,,64-68 & 70-74 American Legion Hwy,02124,,,52188.0,Multifamily Housing,", ",113.4,5915639.5,5353239.5,562400.0,,,,,,,,,,,,22816898.0,,2021
-100404,2003601001,apostolic exarchate,7 Vfw Pkwy,02132,5  15 Vfw Pw,2132.0,38375.0,Worship Facility,Worship Facility,43.3,1660992.7,1417186.6,243806.1,,,,,,,,,,,,,,2021
-100429,0801361005,artblock condominium trust,725 Harrison Ave,02118,725  735 Harrison Av,2118.0,36057.0,Multifamily Housing,,49.4,3646910.9,1912100.0,1734810.9,,,,,,,,,,,,24223126.0,,2021
-100446,1604854020,ashmont homeownership assoc,1906  1918 Dorchester Av,02124,1906  1918 Dorchester Av,2124.0,186139.0,Multifamily Housing,Multifamily Housing,72.6,13505624.6,9070700.3,4434924.4,,,,,,,,,,,,,,2021
-100479,2100167000,audubon park condo tr,16 Miner St,02215,16 Miner St,2215.0,84310.0,Multifamily Housing,Multifamily Housing,38.1,3208041.0,1479293.2,1728747.8,,,,,,,,,,,,,,2021
-100493,0503227000,babson united inc,210-214 Newbury St,02116,212  208 Newbury St,2116.0,41060.0,Retail Store,,24.0,987450.4,,752850.0,,,,234600.4,,,,,,,,,,2021
-100548,0303095000,battery street condo tr,376 Commercial St,02109,21  23 Battery St,2109.0,26459.0,Multifamily Housing,Multifamily Housing,37.9,1001623.3,,1001623.3,,,,,,,,,,,,,,2021
-100558,0901233000,bc camden limited,50-60 Camden St,02118,50  60 Camden St,2118.0,72228.0,Multifamily Housing,,68.8,4969352.3,3682642.2,1286710.2,,,,,,,,,,,,,,2021
-100575,0305346000,beach street condominium tr,123 Beach St,02111,121  123 Beach St,2111.0,48000.0,Multifamily Housing,,19.4,933226.4,,933226.4,,,,,,,,,,,,,,2021
-100613,0304245000,bedford ave. boston real estate holding llc,89-103 Bedford St,02111,89  105 Bedford St,2111.0,88631.0,Office,Office,44.9,3981609.4,2164612.8,1816996.5,,,,,,,,,,,,,,2021
-100614,2005737000,belgrade place llc mass llc,446 Belgrade Ave,02132,446 Belgrade Av,2132.0,56129.0,Multifamily Housing,"Multifamily Housing, Parking",34.5,1937342.5,560000.0,1377342.5,,,,,,,,,,,,,,2021
-100618,0401037600,belvidere condominium trust,100 Belvidere St,02116,100 Belvidere St,2116.0,165000.0,Multifamily Housing,Multifamily Housing,31.0,5121852.4,276917.6,4844934.2,,,,,,,,,,,,,,2021
-100654,1904604000,bethel african methodist,32 Walk Hill St,02130,32 Walk Hill St,2130.0,11481.0,Worship Facility,Worship Facility,2.2,25081.2,,25081.2,,,,,,,,,,,,,,2021
-100655,1904604000,bethel african methodist,86 Wachusett St,02130,32 Walk Hill St,2130.0,17053.0,Worship Facility,Worship Facility,78.0,1329464.1,1287400.2,42063.9,,,,,,,,,,,,,,2021
-100656,1904605000,bethel african methodist,84 Wachusett St,02130,84 Wachusett St,2130.0,21718.0,Worship Facility,"Parking,Worship Facility",5.3,115420.0,68100.0,47320.0,,,,,,,,,,,,,,2021
-100679,0300670000,blackstone co mass lps,33 Blossom St,02114,33 Blossom St,2114.0,129648.0,Multifamily Housing,,51.7,6697181.9,4759957.8,1937224.1,,,,,,,,,,,,,,2021
-100688,1702239000,bloomfield gardens lp,455-475 Geneva Ave,02124,4  6 Bloomfield St,2124.0,32852.0,Multifamily Housing,Multifamily Housing,56.8,1865076.6,1196147.2,668929.4,,,,,,,,,,,,,,2021
-100703,0401853022,bmr-blackfan circle llc,3 Blackfan Ci,02115,3 Blackfan Ci,2115.0,751740.0,Laboratory,"Laboratory,Parking,Restaurant",437.2,328625309.4,208467883.9,120157435.6,,,,,,,,,,,,,,2021
-100727,0503062000,boston architectural college,320 Newbury St,02115,320 Newbury St,2115.0,49494.0,Office,,77.2,3818653.1,,1722997.9,,,,2095655.2,,,,,,,,,,2021
-"100732, 100734",,,539 Tremont St,02116,,,127619.0,Performing Arts,", ",28.3,3610301.1,2754972.2,855328.7,,,,,,,,,,,,6339298.0,,2021
-100740,1303401000,boston college high,150 Morrissey Blvd,02125,160  150 Wm T Morrissey Bl,2125.0,333840.0,K-12 School,,88.9,29687109.0,23312401.0,6374707.8,0.0,,,,,,,,,,,,,2021
-100770,1704417000,boston home for incurable,2049-2061 Dorchester Ave,02124,2061 Dorchester Av,2124.0,83900.0,Senior Living Community,Senior Living Community,135.7,11385845.1,8885470.9,2500374.0,,,,,,,,,,,,,,2021
-100772,0900650000,boston housing auth,1701 Washington St,02118,Worcester St,2118.0,55472.0,Multifamily Housing," ,  ",197.6,10959933.6,7741599.0,3218334.5,,,,,,,,,,,,,,2021
-100773,0900890000,boston housing auth,155 Northampton St,02118,155 Northampton St,2118.0,55472.0,Multifamily Housing," ,  ",74.7,4143457.7,1005100.0,3138357.6,,,,,,,,,,,,,,2021
-"100774, 100775, 100776, 100777, 100778, 100779, 100780, 100781, 100782, 100783, 100784, 100785, 100786",,,1 Trotter Court,02118,,,259055.0,Multifamily Housing,", ",125.2,32441107.1,28293603.2,4147504.4,,,,,,,,,,,,23196619.0,,2021
-100793,1201140000,boston housing auth,280 Martin Luther King Jr Bl,02119,280 Martin Luther King Jr Bl,2119.0,95200.0,Multifamily Housing," ,  ",101.6,9668189.3,7739999.9,1928189.4,,,,,,,,,,,,,,2021
-100797,1502943000,boston housing auth,330 Bowdoin St,02122,330 Bowdoin St,2125.0,64830.0,Multifamily Housing," ,  ",84.0,5445252.4,3592399.9,1852852.5,,,,,,,,,,,,,,2021
-100809,0304555000,boston housing authority,52 Chauny St,02111,50  56 Chauncy St,2111.0,79056.0,Office," ,  ",53.6,4236451.1,685354.0,3551097.0,,,,,,,,,,,,,,2021
-100811,0400975000,boston housing authority,70 St Botolph St,02116,Garrison St,2116.0,90944.0,Multifamily Housing," ,  ",60.0,5454310.2,1454900.1,3999409.9,,,,,,,,,,,,,,2021
-100819,0402595000,boston housing authority,755 Tremont St,02118,755 Tremont St,2118.0,55472.0,Multifamily Housing,,79.5,4411902.3,1157400.0,3254502.4,,,,,,,,,,,,,,2021
-100857,0602527000,boston housing authority,120 L St,02127,120 L St,2127.0,55100.0,Multifamily Housing," ,  ",63.1,3476918.5,933300.0,2543618.4,,,,,,,,,,,,,,2021
-100890,0701516000,boston housing authority,199 H St,02127,Columbia Rd,2127.0,84224.0,Multifamily Housing," ,  ",80.8,6808249.6,4841299.8,1966949.8,,,,,,,,,,,,,,2021
-100974,1601530000,boston housing authority,1875 Dorchester Ave,02122,Talbot Av,2124.0,103200.0,Multifamily Housing," ,  ",57.7,5958942.8,4023499.4,1935443.4,,,,,,,,,,,,,,2021
-100977,1703554000,boston housing authority,2262 Dorchester Ave,02124,2262  2266 Dorchester Av,2124.0,110110.0,Multifamily Housing,,,8065038.4,5492799.8,2572238.6,,,,,,,,,,,,,,2021
-100978,1704614000,boston housing authority,784 Washington St,02124,784  786 Washington St,2124.0,64230.0,Multifamily Housing," ,  ",92.1,5917732.8,3821400.0,2096332.8,,,,,,,,,,,,,,2021
-101171,2011609000,boston housing authority,5300 Washington St,02132,5300 Washington St,2132.0,47460.0,Multifamily Housing," ,  ",66.1,3138437.4,735400.0,2403037.5,,,,,,,,,,,,,,2021
-101174,2101840000,boston housing authority,91-95 Washington St,02135,91  95 Washington St,2135.0,264600.0,Multifamily Housing," ,  ",28.9,7649498.3,6573899.4,1075598.9,,,,,,,,,,,,,,2021
-101178,2102001000,boston housing authority,20 Washington St,02135,65 Egremont Rd,2135.0,191105.0,Multifamily Housing," ,  ",60.0,11472423.4,7307599.7,4164823.7,,,,,,,,,,,,,,2021
-101204,0801067010,boston public health comm,794 Massachusetts Ave,02118,774 Albany St,2118.0,44621.0,Medical Office,"Medical Office, Residential Care Facility",63.7,5820889.1,2441370.0,3379519.1,,,,,,,,,,,,4035841.0,,2021
-101221,2101103000,boston rehabilitation,1391 Commonwealth Ave,02134,1391 Commonwealth Av,2134.0,50136.0,Multifamily Housing,,53.8,2697788.3,,551891.0,,,,,,2145897.3,,,,,,,,2021
-101290,0504140000,boston university trustee of,580 Commonwealth Ave,02215,580 Commonwealth Av,2215.0,124795.0,Multifamily Housing,Multifamily Housing,33.3,4151182.3,4775.6,4146405.7,,,,,,,,,,,,,,2021
-101296,0201834050,boston water & sewer,180-220 Alford St,02129,Alford St,2129.0,71820.0,Office,,16.0,1149809.2,306996.8,842812.5,,,,,,,,,,,,,,2021
-101297,0801093010,boston water & sewer,120 Malden St,02118,120 Malden St,2118.0,88481.0,Other - Utility,,151.1,13365449.6,8976099.7,4389350.3,,,,,,,,,,,,,,2021
-101299,0801984010,boston water & sewer,0,02119,924  980 Harrison Av,2119.0,522465.0,Office,,36.3,18980434.5,8144036.8,10836396.0,,,,,,,,,,,,,,2021
-101321,0501297000,boylston ll llc,535-541 Boylston St,02116,535  541 Boylston St,2116.0,104036.0,Office,Office,69.2,7200412.3,90192.9,3857487.8,,,,3252732.2,,,,,,,,,,2021
-101322,0501298000,boylston ll llc,543-547 Boylston St,02116,543 A547 Boylston St,2116.0,97790.0,Office,"Office, Restaurant",77.9,7616279.9,,4403629.6,,,,3212650.4,,,,,,,,,,2021
-101327,0200457000,boys club of boston,60 High St,02129,60 High St,2129.0,26160.0,Other - Recreation,Other - Recreation,120.2,3143388.9,2302099.8,841289.0,,,,,,,,,,,,,,2021
-101328,0700824020,boys club of boston inc mass,230 W Sixth St,02127,240 W Sixth St,2127.0,14000.0,Social/Meeting Hall,Other - Recreation,164.4,2301600.0,2313280.7,1121733.6,,,,,,,,,,,,,,2021
-101329,0200448000,boys club of boston mass,9-15 Green St,02129,13 Green St,2129.0,33368.0,Other - Recreation,Other - Recreation,75.0,2501279.8,978988.9,1522291.1,,,,,,,,,,,,,,2021
-101330,1201200000,boys club of boston the,115 Warren St,02119,115 Warren St,2119.0,43971.0,Other - Recreation,"Other - Recreation, Parking",106.7,4689790.9,3469068.8,1220722.2,,,,,,,,,,,,,,2021
-101352,1800113800,bphc mattapan development,229 A River St,02126,229 A River St,2126.0,74698.0,Multifamily Housing,Multifamily Housing,51.8,3869017.6,2412851.0,1456166.5,,,,,,,,,,,,,,2021
-101354,2007011000,brackett kristine ts,"8-48 & 64-76 Bryon Rd, 15-46 Westgate Rd",02467,64  76 Bryon Rd,2467.0,384552.0,Multifamily Housing,,50.9,19587432.0,17891401.8,1696030.1,,,,,,,,,,,,,,2021
-101366,0100534000,brandywyne village co,88 Brandywyne Dr,02128,870 908A Saratoga St,2128.0,385660.0,Multifamily Housing,Multifamily Housing,71.9,27733588.9,22487675.4,5245912.5,,,,,,,,,,,,,,2021
-101412,0304664000,bre quad ma owner llc,157-175 Devonshire St,02110,159  175 Devonshire St,2110.0,88385.0,Hotel,Hotel,102.1,9027452.8,979385.8,4416083.4,,,,3631983.6,,,,,,,,,,2021
-101420,0305340010,brickman lincoln llc,182-192 Lincoln St,02111,182  192 Lincoln St,2111.0,74160.0,Office,Office,44.3,3286170.2,127005.1,1312048.8,,,,,,1847116.2,,,,,,,,2021
-101470,0501308000,bromley paul trsts,601-607 Boylston St,02116,601 Boylston St,2116.0,47583.0,Office,,50.8,2415037.6,1131178.8,1283858.8,,,,,,,,,,,,,,2021
-101505,0401128010,brookline bank,131 Clarendon St,02116,131 Clarendon St,2116.0,70346.0,Financial Office,,53.1,3735739.9,2421299.9,1314439.9,,,,,,,,,,,,,,2021
-101524,0504148001,buckminster prof bldg cp,655-665 Beacon St,02215,655  665 Beacon St,2215.0,32001.0,Office,,47.6,1524120.3,996925.4,527194.9,,,,,,,,,,,,,,2021
-101689,2008806000,centre street holdings llc mass llc,1993 Centre St,02132,1991  2009 Centre St,2132.0,4342.0,Bank Branch,"Bank Branch, Parking",51.4,223205.2,51161.2,172043.9,,,,,,,,,,,,,,2021
-101690,2008806000,centre street holdings llc mass llc,1999 Centre St,02132,1991  2009 Centre St,2132.0,36004.0,Retail Store,"Parking, Retail Store",40.6,1462566.6,296924.4,1165642.2,,,,,,,,,,,,,,2021
-101723,0203517500,charlestown navy yard,110 First Ave,02129,77 A-103 Thirteenth St,2129.0,45188.0,Multifamily Housing,Multifamily Housing,82.0,3706606.0,,3706605.7,,,,,,,,,,,,,,2021
-101731,0304956000,chen de luu,9-11 Knapp St,02111,23  9 Knapp St,2111.0,28356.0,Multifamily Housing,"Multifamily Housing, Office, Retail Store",95.5,2708683.7,383961.2,346331.6,,,,,,,,,,,,,,2021
-101733,0304817000,cheng hung ts,25-31 West St,02111,25  31 West St,2111.0,24957.0,Office,,40.6,1013119.4,,532562.0,,,,,,480557.4,,,,,,,,2021
-101739,2102493000,chestnut hill arms condo tr,247-249 Chestnut Hill Ave,02135,247  249 Chestnut Hill Av,2135.0,38121.0,Multifamily Housing,,81.5,3107672.6,1590469.2,72398.7,,,,,,,,,,,,,,2021
-101766,0501344000,chilton club,150-152 Commonwealth Ave,02116,287 Dartmouth St,2116.0,32872.0,Social/Meeting Hall,Social/Meeting Hall,95.5,3139800.1,2195340.9,944459.3,,,,,,,,,,,,,,2021
-101767,0305132000,chinese consolidated,90 Tyler St,02111,90 Tyler St,2111.0,26232.0,Other - Education,"Other - Education,Parking",25.5,668945.7,514600.0,154345.7,,,,,,,,,,,,,,2021
-101770,2102538000,chiswick building co lps,125 Chiswick Rd,02135,125 Chiswick Rd,2135.0,94068.0,Multifamily Housing,Multifamily Housing,53.3,5018300.2,4731599.7,286700.5,,,,,,,,,,,,,,2021
-101782,0501279000,church of the covenant,67 Newbury St,02116,67 Newbury St,2116.0,49500.0,Worship Facility,Worship Facility,51.8,2565650.4,1863772.0,701878.4,,,,,,,,,,,,,,2021
-101938,0801024040,city of boston,400 Frontage Rd,02118,400 Frontage Rd,2118.0,432293.0,"Repair Services (Vehicle, Shoe, Locksmith, etc)","Office, Repair Services (Vehicle, Shoe, Locksmith, etc)",62.6,27074851.3,18803053.7,8271796.9,,,,,,,,,,,,4019946.0,,2021
-102062,1402863001,city of boston,15 Talbot Ave,02124,15 Talbot Av,2124.0,47716.0,Other - Recreation,"Other - Recreation, Parking",107.6,5134082.7,3701518.1,1432564.7,,,,,,,,,,,,,,2021
-102095,1808963000,city of boston,15 Everett St,02136,15 Everett St,2136.0,108832.0,K-12 School,,4.1,441688.3,340487.1,101201.3,,,,,,,,,,,,,,2021
-102478,0701435000,compass landlord llc,1380 Columbia Rd,02127,1380 Columbia Rd,2127.0,26628.0,Senior Living Community,,91.0,2422784.8,1592836.7,829948.2,,,,,,,,,,,,,,2021
-102479,0503198000,condo at 250 comm ave tr,250 Commonwealth Ave,02116,250 Commonwealth Av,2116.0,23600.0,Multifamily Housing,Multifamily Housing,75.2,1773954.2,1449200.0,324754.2,,,,,,,,,,,,,,2021
-102486,2101375010,congregation of sister of,615-647 Cambridge St,02135,625  667 Cambridge St,2135.0,80807.0,K-12 School,"Multifamily Housing,Office,Worship Facility",53.2,4300451.9,3482936.7,817515.2,,,,,,,,,,,,,,2021
-102489,0602691000,congress ventures llc mass llc,305 Congress St,02210,305 Congress St,2210.0,74673.0,Office,,46.4,3468515.5,1570521.8,1897993.6,,,,,,,,,,,,,,2021
-102509,2008816000,corey wrox llc,418-428 Lagrange St,02132,418  428 Lagrange St,2132.0,13800.0,Retail Store,Retail Store,50.5,696515.8,83311.2,613204.6,,,,,,,,,,,,,,2021
-"102516, 102517",,,9 West Broadway & 141 Dorchester Ave,02127,,,399711.0,Multifamily Housing,"Veterinary Office, Office",56.3,22500010.6,,12753435.0,,,,9746575.0,,,,,,,,23955815.0,,2021
-102518,2201905050,courtside realty llc,40 Guest St,02135,40 Guest St,2135.0,70776.0,Parking,,518.6,36707172.9,25441496.5,11265676.8,,,,,,,,,,,,,,2021
-102539,1000649000,cpt brigham circle llc del llc,1620 Tremont St,02120,1610 Tremont St,2120.0,236236.0,Office,"Bank Branch, Medical Office, Office, Parking, Restaurant, Retail Store, Supermarket/Grocery Store",117.6,27789051.9,3589800.2,24199251.7,,,,,,,,,,,,,,2021
-102577,0100437000,cube smart lp,150 William F Mcclellan Hwy,02128,150 Wm F Mcclellan Hw,2128.0,108405.0,Self-Storage Facility,,13.8,1494541.6,410187.1,1084354.5,253803.0,,,,,,,,,,,,,2021
-102630,0503917000,daughters of mary,20 Charlesgate W,02215,20 Charlesgate West,2215.0,58320.0,Multifamily Housing,Multifamily Housing,86.6,5047790.9,4314338.6,733452.4,,,,,,,,,,,,,,2021
-102638,2100566000,deacon condominium tr,57-59 Brighton Ave,02134,57  59 Brighton Av,2134.0,25410.0,Multifamily Housing,Multifamily Housing,66.7,1696107.1,,178908.2,,,,,1517198.8,,,,,,,,,2021
-102642,0304231000,deka immobilien investment,175 Federal St,02110,175 Federal St,2110.0,227365.0,Office,"Bank Branch, Data Center, Office",40.4,9188564.4,,9188563.8,,,,,,,,,,,,,,2021
-102643,0304646000,deka usa franklin street lp,64-74 Franklin St,02110,64  74 Franklin St,2110.0,85072.0,Office,Office,47.4,4036429.3,,4036430.1,,,,,,,,,,,,,,2021
-102649,0303895000,devonshire associated,250 Washington St,02109,228  256 Washington St,2109.0,728652.0,Multifamily Housing,"Multifamily Housing,Office,Parking,Swimming Pool",50.8,37030459.0,16714975.6,20315484.7,,,,,,,,,,,,,,2021
-102688,1807972000,dorchester realty group llc,151 Providence St,02136,151 Providence St,2136.0,21726.0,Other,Other,29.0,630035.0,608200.0,21835.0,,,,,,,,,,,,,,2021
-102716,0105658010,e boston neighborhood health,20 Maverick Sq,02128,20 Maverick Sq,2128.0,47777.0,Urgent Care/Clinic/Other Outpatient,Urgent Care/Clinic/Other Outpatient,101.2,4833292.2,1664700.0,3168592.4,,,,,,,,,,,,,,2021
-102719,0703501030,e&a northeast lp,14 Allstate Rd,02125,14 Allstate Rd,2125.0,45261.0,Retail Store,Retail Store,48.9,2212855.3,600600.0,1612255.3,,,,,,,,,,,,,,2021
-102726,0105815000,east boston neighborhood,10 Gove St,02128,10 Gove St,2128.0,57458.0,Urgent Care/Clinic/Other Outpatient,Urgent Care/Clinic/Other Outpatient,119.9,6889566.2,2860578.6,4028988.5,,,,,,,,,,,,,,2021
-102738,0603773000,east second street condo trust,858-862 East Second St,02127,858  860 E Second St,2127.0,18696.0,Multifamily Housing,,44.3,828234.7,534383.0,293851.7,,,,,,,,,,,,,,2021
-102770,1812340010,edgemere gardens llc mass llc,Baker St,02136,Baker St,2136.0,45700.0,Multifamily Housing,Multifamily Housing,46.0,2101289.9,1165695.7,935594.3,,,,,,,,,,,,,,2021
-102811,0304831000,emerson college,543-547 Washington St,02111,543  547 Washington St,2111.0,158288.0,College/University,College/University,127.3,20151226.2,352500.0,12126623.3,,,,7654564.6,,,,,,17539.8,,22012100.0,,2021
-"102811, 102813, 102814, 102815, 102816, 102817, 102818, 102819, 102820, 102821",,,120 Boylston St,02116,,,1637185.0,College/University,", ",65.1,106649831.3,3676825.7,58693019.3,,,,44175130.3,,,,,,,,22012100.0,,2021
-102814,0304890100,emerson college,180 182 Tremont St,02111,180  182 Tremont St,2111.0,96649.0,College/University,College/University,56.8,5488037.2,0.0,5279643.5,,,,180987.3,,,,,,27406.8,,22012100.0,,2021
-102817,0500002000,emerson college,219 Tremont St,02116,219 Tremont St,2116.0,30822.0,Performing Arts,Performing Arts,121.1,3733082.6,1546499.8,2158775.8,,,,,,,,,,27807.0,,22012100.0,,2021
-102821,0500045000,emerson college a mass,98-06 Boylston Streeet,02116,98  106 Boylston St,2116.0,179336.0,Performing Arts,Performing Arts,71.5,12831244.2,,7076221.9,,,,5738972.5,,,,,,16049.4,,22012100.0,,2021
-102836,1403336000,emrg realty llc,6-10 Frontenac St,02124,5  11 Livingstone St,2124.0,24000.0,Other,Other,67.3,1614509.4,1125900.0,488609.3,,,,,,,,,,,,,,2021
-102848,2008908000,equity one llc mass llc,75 Spring St,02132,21 Springvale Av,2132.0,54846.0,Supermarket/Grocery Store,,312.3,17128226.2,8163199.7,8965026.6,,,,,,,,,,,,,,2021
-"102856, 102857",,,201 And 221 S Huntington,02130,,,149366.0,Multifamily Housing,", ",38.2,5707004.0,2164140.1,3542863.8,,,,,,,,,,,,23730255.0,,2021
-102871,2201764010,everett st crossing lp mass lps,63 Everett Square,02134,33 Everett St,2134.0,2480.0,Multifamily Housing,,111.6,276831.2,238238.0,38593.1,,,,,,,,,,,,5920788.0,,2021
-102872,2201764010,everett st crossing lp mass lps,65-71 Hano St,02134,33 Everett St,2134.0,4416.0,Multifamily Housing,Multifamily Housing,104.0,459117.6,424221.0,34896.6,,,,,,,,,,,,5920788.0,,2021
-102873,2201764010,everett st crossing lp mass lps,31-41 Everett St,02134,33 Everett St,2134.0,6732.0,Multifamily Housing,Multifamily Housing,55.1,370678.0,273999.0,96679.0,,,,,,,,,,,,5920788.0,,2021
-102874,2201764010,everett st crossing lp mass lps,57 Everett St,02134,33 Everett St,2134.0,21300.0,Multifamily Housing,Multifamily Housing,54.8,1167996.4,862651.1,305345.4,,,,,,,,,,,,5920788.0,,2021
-102895,0302814000,faros 20 ashburton llc,20 Ashburton Pl,02108,20 Ashburton Pl,2108.0,50962.0,Office,Office,42.3,2156063.0,,1061988.4,,,,1094074.5,,,,,,,,,,2021
-102924,0504174000,fenway studios inc,30 Ipswich St,02215,30 Ipswich St,2215.0,66000.0,Multifamily Housing,,58.6,3870296.5,3522020.0,348276.5,,,,,,,,,,,,,,2021
-102933,0303889000,fidelity real estate company llc,27 State St,02109,46  48 Devonshire St,2109.0,28821.0,Financial Office,"Financial Office, Retail Store",62.7,1806909.9,804972.0,1001937.9,,,,,,,,,,,,,,2021
-102944,2201749000,fifteen north beacon st cond condo tr,15 N Beacon St,02134,15 N Beacon St,2134.0,228988.0,Multifamily Housing,Multifamily Housing,71.4,16345174.0,11787038.8,4558135.2,,,,,,,,,,,,,,2021
-102963,0600053010,fifty-5 w broadway condo tr,45-55 W Broadway,02127,45  55 W Broadway,2127.0,41436.0,Multifamily Housing,,43.0,2886575.1,1844100.0,1042475.2,,,,,,,,,,,,24218447.0,,2021
-102984,0502574000,fisher school,114-118 Beacon St,02116,118 Beacon St,2116.0,21600.0,College/University,College/University,15.3,331509.9,,331510.0,,,,,,,,,,,,,,2021
-103014,0400945000,follen street condo tr,7 Follen St,02116,25  7 Follen St,2116.0,45215.0,Multifamily Housing,Multifamily Housing,48.5,2193641.3,993600.0,1200041.3,,,,,,,,,,,,,,2021
-103015,0301633000,forecaster 121 condominium trust,121-127 Portland St,02114,121  127 Portland St,2114.0,103000.0,Multifamily Housing,"Multifamily Housing,Parking",40.8,4201075.8,2413000.2,1788075.7,,,,,,,,,,,,,,2021
-103021,0304015000,forest milk llc,30-36 Batterymarch St,02110,32  34 Batterymarch St,2110.0,33250.0,Multifamily Housing,"Multifamily Housing, Office, Restaurant",79.1,2630559.3,1175000.0,1455559.2,,,,,,,,,,,,,,2021
-103040,2202408000,fortium realty llc,15 Leicester St,02135,15 Leicester St,2135.0,24752.0,Multifamily Housing,Multifamily Housing,96.0,2376187.5,1320.0,47669.8,,,,,,,,,,,,,,2021
-103070,0602842000,four 11 d st associates llc,405-409A D St,02127,405  409 D St,2127.0,237984.0,Multifamily Housing,Multifamily Housing,8.2,1952000.1,1952000.1,,,,,,,,,,,,,,,2021
-103098,1500551012,fourteen-60 house lp mass lp,1460 Dorchester Av,02122,1460 Dorchester Av,2122.0,42985.0,Multifamily Housing,Multifamily Housing,35.0,1503172.3,877943.8,625228.5,,,,,,,,,,,,,,2021
-103120,0801385002,franklin preservation,11 E Newton St,02118,11 E Newton St,2118.0,193816.0,Multifamily Housing,,64.1,12416413.7,9961516.6,2454897.2,,,,,,,,,,,,,,2021
-103129,0603422000,g l i operating co del cp,571-573 E First St,02127,571  591 E First St,2127.0,40687.0,"Repair Services (Vehicle, Shoe, Locksmith, etc)","Repair Services (Vehicle, Shoe, Locksmith, etc)",152.5,6205492.9,4901999.8,1303493.2,,,,,,,,,,,,,,2021
-103147,0401011000,garrison condo tr,8-16 Garrison St,02116,8  16 Garrison St,2116.0,50075.0,Multifamily Housing,Multifamily Housing,81.4,4078465.8,3447000.1,631465.7,,,,,,,,,,,,,,2021
-103161,2101986000,gauthier arthur trsts,41-67 Colborne Rd,02135,41  67 Colborne Rd,2215.0,104120.0,Multifamily Housing,,35.4,3686677.3,22700.0,1161526.7,,,,,,,,,,,,,,2021
-103165,0801027000,gbfb realty corporation,70 S Bay Ave,02118,70 S Bay Av,2118.0,117244.0,Distribution Center,"Distribution Center,Parking,Refrigerated Warehouse",78.7,9221895.9,3430093.4,5791801.8,,,,,,,,,,,,,,2021
-103309,0800748000,gh roxbury realty llc a mass llc,3-7 George St,02119,Eustis St,2119.0,34000.0,Retail Store,Retail Store,39.6,1344889.8,957119.3,387770.4,,,,,,,,,,,,,,2021
-103310,0800783000,gh roxbury realty llc a mass llc,64 George St,02119,Howard St,2119.0,34616.0,Non-Refrigerated Warehouse,,23.9,828500.5,763025.8,65474.7,,,,,,,,,,,,,,2021
-103336,0401484000,gp-huntington limited ptnr,261-289 Huntington Ave,02115,263  279 Huntington Av,2115.0,87751.0,Office,"Office, Restaurant, Retail Store",105.9,9296200.5,4513075.0,4783125.8,,,,,,,,,,,,,,2021
-103340,2005234000,gr-conway court limited,3 Conway St,02131,1  3 Conway St,2131.0,25940.0,Multifamily Housing,,55.6,1441005.0,1067711.8,373293.3,,,,,,,,,,,,,,2021
-103360,0800841000,green boston operations llc,101 Gerard St,02119,47 Kemble St,2119.0,30675.0,Manufacturing/Industrial Plant,,71.0,2176798.3,,2176798.3,,,,,,,,,,,,,,2021
-103391,2101914000,hajjar anne t ts,96 Washington St,02135,96 Washington St,2135.0,30348.0,Multifamily Housing,,64.0,1941105.9,1556764.5,384341.3,,,,,,,,,,,,,,2021
-103392,2100015000,hajjar charles c ts,94 Queensberry St,02215,94 Queensberry St,2215.0,21310.0,Multifamily Housing,,76.3,1626838.7,1449500.0,177338.7,,,,,,,,,,,,,,2021
-103663,0503380000,hexagon llc,217 Commonwealth Ave,02116,217 Commonwealth Av,2116.0,55000.0,Other - Lodging/Residential,Other - Lodging/Residential,114.4,6292882.1,3385300.3,2907581.9,,,,,,,,,,,,,,2021
-103757,2101785000,hillcrest condo tr,1504 Commonwealth Ave,02135,1504  1494 Commonwealth Av,2135.0,28466.0,Multifamily Housing,,80.4,2289295.1,710900.0,321601.5,,,,,,1256793.6,,,,,,,,2021
-103761,2201894000,hitchborn partners llc,50 Hichborn St,02135,46 Hichborn St,2135.0,49679.0,Multifamily Housing,,29.9,1487701.3,558600.0,929101.2,,,,,,,,,,,,,,2021
-103800,1101160000,horizons watermark llc,1785 Columbus Ave,02119,Dimock St,2119.0,133223.0,Office,,38.5,5131758.1,4300.0,5127458.1,,,,,,,,,,,,,,2021
-103837,2006994000,hv 91 llc,223-233 Independence Dr,02132,201  259 Independence Dr,2132.0,236023.0,Multifamily Housing,"Multifamily Housing,Parking",80.2,18927280.1,16650401.3,2276878.8,,,,,,,,,,,,,,2021
-103870,0401087000,iconic copley plaza hotel  llc,138-148 Saint James Ave,02116,205 Dartmouth St,2116.0,339321.0,Hotel,Hotel,110.6,37522109.9,23137501.6,14384609.9,,,,,,,,,,,,,,2021
-103937,2100896000,jo-ed realty trust,149-175 Harvard Ave,02134,149  175 Harvard Av,2134.0,54302.0,Other,,58.1,3155459.9,2089800.1,1065659.7,,,,,,,,,,,,,,2021
-104005,2102111000,kilsyth village llc,100 Kilsyth Rd,02135,100 Kilsyth Rd,2135.0,17520.0,Multifamily Housing,"Multifamily Housing,Parking",70.7,1238032.4,1023015.0,215017.4,,,,,,,,,,,,,,2021
-104029,2102168001,kre-bsl husky chestnut park llc,50 Sutherland Rd,02135,50 Sutherland Rd,2135.0,82360.0,Senior Living Community,"Parking,Senior Living Community",85.2,7013567.4,4326267.7,2687299.7,,,,,,,,,,,,,,2021
-104034,0504244000,l m i realty corp,25-29A Queensberry St,02215,29 A25 Queensberry St,2215.0,38220.0,Multifamily Housing,Multifamily Housing,68.7,2627522.0,2248500.0,379022.0,,,,,,,,,,,,,,2021
-104040,0304959000,ladies garm wrkrs center inc,27-35 Harrison Ave,02111,35  27 Harrison Av,2111.0,67500.0,Office,,71.8,4847503.6,,1665775.9,,,,,,,,,,,,,,2021
-104042,0503585000,lafayette condominium tr,333 Commonwealth Ave,02115,333 Commonwealth Av,2115.0,42864.0,Multifamily Housing,,27.4,1175051.9,,1175051.9,,,,,,,,,,,,,,2021
-104077,0602674245,legal seafoods inc - sub lessee,1 Seafood Wy,02210,1 Seafood Wy,2210.0,75000.0,Office,,144.7,10851350.5,6202528.8,4648822.7,,,,,,,,,,,,,,2021
-104078,1806596000,legion arms condo tr,590-594 American Legion Hwy,02131,596  590 American Legion Hw,2131.0,18556.0,Multifamily Housing,Multifamily Housing,16.3,301962.0,,301962.0,,,,,,,,,,,,,,2021
-104079,1806596000,legion arms condo tr,594 American Legion Hwy,02131,596  590 American Legion Hw,2131.0,13942.0,Multifamily Housing,Multifamily Housing,10.5,145989.2,,145989.2,,,,,,,,,,,,,,2021
-104091,0401067010,lho backstreets lessee llc,10 Huntington Ave,02116,10 Huntington Av,2116.0,896062.0,Hotel,,65.7,58862712.2,14775980.4,24469007.9,,,18353002.5,1264721.8,,,,,,,,,,2021
-104106,0300028000,lindsay place condo tr,11-17 Bowdoin St,02114,11  27 Bowdoin St,2114.0,51000.0,Multifamily Housing,Multifamily Housing,55.7,2841025.6,2238118.4,602907.2,,,,,,,,,,,,,,2021
-104111,2100792000,lmi realty corporation,56 Brighton Ave,02134,56 Brighton Av,2134.0,21235.0,Multifamily Housing,Multifamily Housing,18.5,393639.1,47938.7,345700.4,,,,,,,,,,,,,,2021
-104122,2101689000,longfellow heights condo tr,12 Bellvista Rd,02134,22 A12 Bellvista Rd,2134.0,40000.0,Multifamily Housing,,39.0,1559248.2,544300.0,198291.8,,,,,,816656.4,,,,,,,,2021
-104127,2004863000,longfellow non profit,885 South St,02131,885 South St,2131.0,40680.0,Multifamily Housing,Multifamily Housing,76.0,3089840.2,2165515.8,924324.4,,,,,,,,,,,,,,2021
-104154,1600250000,madison partners llc mass llc,705-715 William T Morrissey Blvd,02122,711 Wm T Morrissey Bl,2122.0,21293.0,Convenience Store without Gas Station,"Convenience Store without Gas Station, Parking",92.0,1959940.6,436190.7,1523750.1,,,,,,,,,,,,,,2021
-104161,1809791000,maguire philip,4-8 Wolcott St,02136,8  4 Wolcott St,2136.0,20650.0,"Repair Services (Vehicle, Shoe, Locksmith, etc)","Repair Services (Vehicle, Shoe, Locksmith, etc)",11.8,243480.3,,243480.3,,,,,,,,,,,,,,2021
-104185,0903557000,marcus garvey associates lps,42 John Eliot Square,02119,Norfolk St,2119.0,144181.0,Multifamily Housing,,70.0,10088914.1,7254245.0,2834669.1,,,,,,,,,,,,,,2021
-104188,2202200000,market court condo tr,238-242 Market St,02135,1  7 Cypress Rd,2135.0,22909.0,Multifamily Housing,,29.7,680226.6,,680226.6,,,,,,,,,,,,,,2021
-104189,2202200000,market court condo tr,4 Cypress Rd,02135,1  7 Cypress Rd,2135.0,20782.0,Multifamily Housing,,32.1,666459.1,,666459.1,,,,,,,,,,,,,,2021
-104227,0500812001,mass convention center auth,1A Charles St,02116,Charles St,2116.0,350000.0,Parking,,23.4,8198808.1,,8198807.4,,,,,,,,,,,,,,2021
-104231,0602798010,mass convention center auth,413-415 Summer St,02210,Summer St,2210.0,1010044.0,Convention Center,,81.3,82076366.1,33654883.7,48421466.2,,,,,,,,,,,,,,2021
-104263,0401039000,massachusetts convention,900 Boylston St,02116,900 Boylston St,2116.0,763200.0,Convention Center,,83.3,63569858.9,342936.3,32917635.1,,,,30309287.2,,,,,,,,,,2021
-104330,2101830005,matov alex,1505 Commonwealth Ave,02135,1505 Commonwealth Av,2135.0,63504.0,Multifamily Housing,"Multifamily Housing,Parking",58.5,3714701.3,477269.6,3237431.8,,,,,,,,,,,,,,2021
-104383,0502295000,melville gartside llc mass llc,84 Beacon St,02108,83  84 Beacon St,2108.0,20625.0,Office,"Office,Restaurant,Single Family Home,Social/Meeting Hall",178.9,3689187.9,1739490.9,1949697.0,,,,,,,,,,,,,,2021
-104409,0400905000,mercury huntington corp ts,120 Huntington Ave,02116,120 Huntington Av,2116.0,276439.0,Hotel,,85.5,23640591.6,15502751.4,8137841.8,,,,,,,,,,,,,,2021
-104423,0304832020,millenium place north,1 Avery St #Ph,02111,1 Avery St,2111.0,362409.0,Multifamily Housing,"Multifamily Housing,Restaurant",57.1,20676048.2,12219713.4,8456334.9,,,,,,,,,,0.0,,,,2021
-104424,0304870020,millennium place south,2 Avery St,02111,2  16 Avery St,2111.0,895973.0,Multifamily Housing,"Fitness Center/Health Club/Gym,Hotel,Movie Theater,Multifamily Housing,Parking",133.7,119761837.1,64500155.4,55261673.2,,,,,,,,,,,,,,2021
-104425,0304590010,millennium tower trust,1 Franklin St,02110,1 Franklin St,2110.0,758542.0,Multifamily Housing,"Multifamily Housing, Retail Store",65.3,49503863.7,15310172.9,34193699.2,,,,,,,,,,,,,,2021
-104431,2100166000,miner street llc mass llc,23 Miner St,02215,9 Miner St,2215.0,46250.0,Multifamily Housing,"Multifamily Housing, Parking",72.8,3365304.7,2373047.3,992257.4,,,,,,,,,,,,,,2021
-104485,2101707100,monarch condo trust,300 Allston St,02135,300 Allston St,2135.0,71284.0,Multifamily Housing,Multifamily Housing,58.6,4173820.6,1959094.8,2214725.8,,,,,,,,,,,,,,2021
-104493,1303404000,morrissey property owner llc,2 - 50 Wm T Morrissey Bl,02125,40 Wm T Morrissey Bl,2125.0,370000.0,Financial Office,,98.0,36269141.1,9537173.3,26731969.1,,,,,,,,,,,,,,2021
-104494,0401452000,morville house apartments,100-112 Norway St,02115,112  100 Norway St,2115.0,93150.0,Multifamily Housing,Multifamily Housing,73.3,6825715.3,4255066.6,2570648.6,,,,,,,,,,,,,,2021
-104537,1603820000,nahant condominium tr,24 Nahant Ave,02124,24 Nahant Av,2122.0,16300.0,Multifamily Housing,,3.2,51494.9,,51494.9,,,,,,,,,,,,,,2021
-104548,2009219000,nd oak row llc,1235 Vfw Pkwy,02132,165 Gardner St,2132.0,104588.0,Multifamily Housing,,41.3,4316594.9,2183299.9,2133295.0,,,,,,,,,,,,,,2021
-104558,0504197000,nesv lansdowne street llc,49-65 Lansdowne St,02215,49  67 Lansdowne St,2215.0,60000.0,Parking,Parking,5.0,201297.8,,201297.8,,,,,,,,,,,,,,2021
-104597,0302990000,new england aquarium,95 East India Row,02110,248 Atlantic Av,2114.0,31638.0,Movie Theater,Movie Theater,106.6,3374157.4,,2259126.1,,,,1115031.3,,,,,,,,,,2021
-104598,1001212000,new england baptist hosp,125 Parker Hill Ave,02120,91  109 Parker Hill Av,2120.0,418000.0,Hospital (General Medical & Surgical),,435.8,182183316.1,131550789.8,50632510.5,,,,,,,,,,,,,,2021
-104630,0504192000,new roulet limited partnersh,145-151 Ipswich St,02215,7  11 Lansdowne St,2215.0,100038.0,Other - Recreation,"Bar/Nightclub, Bowling Alley, Office, Other - Recreation, Restaurant",111.3,11137495.5,3617000.5,7520495.0,,,,,,,,,,,,,,2021
-104631,0503053000,newbury prime realty corp,338 Newbury St,01938,338 Newbury St,2115.0,20000.0,Other - Mall,"Other - Mall,Other - Services,Restaurant",99.1,1981550.0,1112500.0,869050.0,,,,,,,,,,,,,,2021
-104671,0500135002,nkotb owner llc,200 Stuart St,02116,200 Stuart St,2116.0,312000.0,Hotel,,71.8,22397881.7,1623768.8,14376547.3,,,,6397567.2,,,,,,,,,,2021
-104696,1503095002,north dorchester llc a mass llc,35 Freeport Way,02125,35 Freeport Wy,2125.0,30000.0,"Repair Services (Vehicle, Shoe, Locksmith, etc)","Repair Services (Vehicle, Shoe, Locksmith, etc)",89.6,2689317.2,1902800.0,786517.2,,,,,,,,,,,,,,2021
-104805,0702836000,o'connor senior housing llc,5 Major Michael J O'Connor Way,02127,5 Oconnor Wy,2127.0,40818.0,Multifamily Housing,Multifamily Housing,38.9,1589580.7,890241.5,699339.1,,,,,,,,,,,,,,2021
-104820,0504203000,olde town team realty trust,24 Jersey St,02215,24 Jersey St,2215.0,610000.0,Stadium (Open),Stadium (Open),104.8,63902937.5,24024414.6,39878534.8,,,,,,,,,,,,,,2021
-104862,0401707000,one 14 fenway inc the,114 Fenway,02115,114 Fenway St,2115.0,29400.0,Multifamily Housing,,57.4,1686095.4,1399600.0,286495.4,,,,,,,,,,,,,,2021
-104908,0402006000,one hundred riverway condo tr,100-110 Riverway,02215,110  100 Riverway St,2215.0,33755.0,Multifamily Housing,,21.1,711758.2,303700.0,408058.1,,,,,,,,,,,,,,2021
-104918,0504190000,one sixty ipswich inc,160-170 Ipswich St,02215,170  160 Ipswich St,2215.0,129800.0,Parking,Parking,0.7,91168.6,,91168.6,,,,,,,,,,,,,,2021
-104924,2100033000,one-10 peterborough lp mass lps,110 Peterborough St,02215,110 Peterborough St,2215.0,39934.0,Multifamily Housing,,55.2,2205364.0,1496660.9,708703.1,,,,,,,,,,,,,,2021
-104955,2010343000,ormiston mary trsts,5-17 Cass St,02132,5  17 Cass St,2132.0,56736.0,Multifamily Housing,,59.9,3397340.5,,664347.1,,,,,,,,,,,,,,2021
-104966,0304157000,pacific dolphin corp,250 Franklin St,02110,27  47 Oliver St,2110.0,223546.0,Hotel,Hotel,90.7,20276072.8,6076548.6,14199522.5,,,,,,,,,,,,,,2021
-104981,0202125000,paradigm direct roland llc,56 Roland St,02129,56 Roland St,2129.0,119679.0,Office,"Data Center,Laboratory,Office,Parking,Veterinary Office",75.9,9081009.5,1465200.1,7615809.2,,,,,,,,,,,,,,2021
-104989,1905052030,parcel u phase a llc,143  171 Hyde Park Av,02130,143  171 Hyde Park Av,2130.0,37200.0,Multifamily Housing,,32.7,1216827.5,287600.0,929227.5,,,,,,,,,,,,,,2021
-104990,1905052040,parcel u phase b llc,119  141 Hyde Park Av,02130,119  141 Hyde Park Av,2130.0,37200.0,Multifamily Housing,,29.6,1101843.2,828600.0,,,,,,,,,,,,,,,2021
-105014,0304680000,park street church,3 Park St,02108,3 Park St,2108.0,34849.0,Worship Facility,,39.1,1361317.1,601286.4,760030.8,,,,,,,,,,,,,,2021
-105015,0304677000,park street cong society,119 Tremont St,02108,119 Tremont St,2108.0,23180.0,Worship Facility,,127.2,2948089.1,2097936.4,850152.7,,,,,,,,,,,,,,2021
-105027,2100465000,partners properties llc mass llc,16-22 Linden St,02134,20  14 Linden St,2134.0,71000.0,Office,"Office,Parking",41.8,2965049.9,1442596.7,1522453.2,,,,,,,,,,,,,,2021
-105050,0503817000,petruzziello gina l,371 Commonwealth Ave,02115,61  59 Massachusetts Av,2115.0,28809.0,Multifamily Housing,,126.1,3633241.0,694365.6,1281615.4,,,,,,1657260.0,,,,,,,,2021
-105051,1602418001,pf redfield llc mass llc,50 Redfield St,02122,50 Redfield St,2122.0,42669.0,Office,"Office,Parking",29.3,1251407.4,69900.0,1181507.4,,,,,,,,,,,,,,2021
-105071,1102897010,pine street inn inc,3368 Washington St,02130,3368 Washington St,2130.0,37718.0,Office,"Office, Self-Storage Facility",38.4,1449011.3,1155561.7,293449.6,,,,,,,,,,,,,,2021
-105073,2100040000,pinewood apartments llc,115-125 Peterborough St,02215,115  125 Peterborough St,2215.0,62536.0,Multifamily Housing,,67.2,4199579.7,3694300.0,505279.7,,,,,,,,,,,,,,2021
-105078,0202751000,pizzuti donato,50 Terminal St,02129,30  50 Terminal St,2129.0,219988.0,Non-Refrigerated Warehouse,"Data Center,Manufacturing/Industrial Plant,Non-Refrigerated Warehouse,Office,Parking,Personal Services (Health/Beauty, Dry Cleaning, etc)",45.5,10000940.0,4169299.7,5831640.3,,,,,,,,,,,,,,2021
-"105083, 105084",,,1193-1197 Commonwealth Ave,02134,,,43040.0,Multifamily Housing,", ",55.5,2389854.7,2046999.9,342854.8,,,,,,,,,,,,23645413.0,,2021
-105127,1302364019,pob cc 35-55 morrissey llc,35-45 Morrissey Blvd,02125,35  45 Wm T Morrissey Bl,2124.0,61800.0,Supermarket/Grocery Store,,225.0,13903569.7,4715899.8,9187669.8,,,,,,,,,,,,,,2021
-105128,1302364021,pob cc 35-55 morrissey llc,55 William T Morrissey Blvd,02124,55 Wm T Morrissey Bl,2124.0,40000.0,Other,Other,144.2,5766462.3,755061.6,5011402.3,,,,,,,,,,,,,,2021
-105216,1901355000,protestant episcopal church,1 Roanoke Ave,02130,Roanoke Av,2130.0,25131.0,Worship Facility,,27.9,702111.0,613178.1,88932.9,,,,,,,,,,,,,,2021
-105227,0504283000,queensberry court condo tr,62 Queensberry St,02215,62  66 Queensberry St,2215.0,59692.0,Multifamily Housing,,70.3,4194202.9,3573399.7,620803.2,,,,,,,,,,,,,,2021
-105233,0201844000,rad realty corporation,96-104 Arlington Ave,02129,96  104 Arlington Av,2129.0,28500.0,Distribution Center,"Distribution Center,Parking",68.8,1961144.2,1512436.4,448707.7,,,,,,,,,,,,,,2021
-105250,0300470050,rar2 50 staniford llc,50  60 Staniford St,02114,50  60 Staniford St,2114.0,220932.0,Medical Office,Medical Office,69.5,15357017.9,279400.0,15077617.8,,,,,,,,,,,,,,2021
-105255,1500320010,rd realty group llc,79-85 Freeport St,02122,79  85 Freeport St,2122.0,5000.0,Police Station,Other,25.3,126663.4,535480.6,126663.4,,,,,,,,,,,,,,2021
-105258,0203648000,recp v 40 warren owner llc,34-42 Warren St,02129,42  34 Warren St,2129.0,44712.0,Office,,18.2,815863.1,,815863.1,,,,,,,,,,,,,,2021
-105259,2201872000,red line limit llc,38-42 Everett St,02135,42  38 Everett St,2135.0,31128.0,Office,,73.6,2290690.6,,2290690.6,,,,,,,,,,,,,,2021
-105268,2101829000,regency building co lps,1455 Commonwealth Ave,02135,1455 Commonwealth Av,2135.0,102948.0,Multifamily Housing,"Multifamily Housing, Parking",56.1,5778617.7,5361900.2,416717.5,,,,,,,,,,,,,,2021
-105285,2102474000,reservoir tower associates  lp,1925 Commonwealth Ave,02135,271 Chestnut Hill Av,2135.0,225370.0,Multifamily Housing,Multifamily Housing,51.9,11692286.0,7852687.3,3839598.7,,,,,,,,,,,,,,2021
-105287,2006248010,residences at 1789 centre condominium trust,1789 Centre St,02132,1789 Centre St,2132.0,22832.0,Multifamily Housing,"Multifamily Housing, Office, Parking",23.5,537168.2,,537168.2,,,,,,,,,,,,,,2021
-105296,0600022010,residences fifty w broadway mass llc,48-52 W Broadway,02127,48  78 W Broadway,2127.0,200755.0,Multifamily Housing,Multifamily Housing,33.8,6784748.0,3123709.4,3661038.5,,,,,,,,,,,,,,2021
-105298,0500075030,residential condominium,100 Stuart St,02116,110 Stuart St,2116.0,361858.0,Hotel,,70.2,25397891.9,1598815.5,11674471.9,,,,12124604.8,,,,,,,,,,2021
-105346,0900939000,robert l fortes house lp,541-549 Shawmut Ave,02118,541  549 Shawmut Av,2118.0,39280.0,Multifamily Housing,Multifamily Housing,50.4,1978887.9,1224303.2,754584.6,,,,,,,,,,,,,,2021
-105362,1302651000,roman cath arch boston,100 Savin Hill Ave,02125,100 Savin Hill Av,2125.0,61152.0,K-12 School,"K-12 School,Parking",31.5,1925805.1,1707996.9,217808.3,,,,,,,,,,,,,,2021
-105367,1703589000,roman cath arch boston,2223 Dorchester Ave,02124,2214  2224 Dorchester Av,2124.0,81888.0,K-12 School,,13.0,1060614.4,595900.0,464714.4,,,,,,,,,,,,,,2021
-105373,1704221000,roman cath arch boston,2215 Dorchester Ave,02124,2221 Dorchester Av,2124.0,36834.0,Worship Facility,Worship Facility,154.7,5696900.7,5482900.0,214000.6,,,,,,,,,,,,,,2021
-105389,1809140010,roman cath arch of bos,1286 Hyde Park Ave,02136,1286 Hyde Park Av,2136.0,40295.0,K-12 School,"K-12 School,Parking",67.8,2733456.0,2368596.6,364859.5,,,,,,,,,,,,,,2021
-105392,2201177000,roman cath arch of bos,57-59 Holton St,02135,37  57 Holton St,2135.0,52850.0,K-12 School,"K-12 School,Worship Facility",59.5,3144750.4,1379900.0,484803.9,,,,,,1280046.6,,,,,,,,2021
-105395,0305368000,roman cath arch of bos church,125 Harrison Ave,02111,125 Harrison Av,2111.0,28346.0,Worship Facility,Worship Facility,25.9,734239.3,,38099.9,,,,,,,,,,,,,,2021
-105399,0602109000,roman cath arch of bostn,615 E Fourth St,02127,I St,2127.0,63078.0,Worship Facility,,25.3,1594126.4,1491701.6,102424.8,,,,,,,,,,,,,,2021
-105400,0603644000,roman cath arch of bostn,O St,02127,O St,2127.0,22835.0,Other - Education,,6.1,139808.3,139033.8,774.5,,,,,,,,,,,,,,2021
-105401,0603645000,roman cath arch of bostn,866 East Broadway,02127,E Broadway,2127.0,54668.0,K-12 School,,6.6,359073.2,357200.0,1873.2,,,,,,,,,,,,,,2021
-"105402, 105403, 105404",,,96 N St,02127,,,43185.0,Other,", ",23.7,1023878.9,931400.0,92478.8,,,,,,,,,,,,25124602.0,,2021
-105403,0604254000,roman cath arch of bostn,96 N St,02127,96 N St,2127.0,14480.0,Pre-school/Daycare,,0.3,5011.3,3800.0,1211.3,,,,,,,,,,,,25124602.0,,2021
-105404,0604254000,roman cath arch of bostn,841 E Broadway,02127,96 N St,2127.0,8225.0,Office,,63.9,525461.2,444300.0,81161.2,,,,,,,,,,,,25124602.0,,2021
-105519,2101545000,royce condominium tr,5-7 Royce Rd,02134,5 Royce Rd,2134.0,26544.0,Multifamily Housing,Multifamily Housing,62.6,1661790.3,1263623.5,398166.8,,,,,,,,,,,,,,2021
-105521,0703892100,rpp commerce llc mass llc,600 Columbia Rd,02125,600 Columbia Rd,2125.0,29712.0,Multifamily Housing,,14.8,438554.6,0.0,438554.6,,,,,,,,,,,,,,2021
-105580,0202572000,rutherford landing llc,463 Rutherford Ave,02129,463  471 Rutherford Av,2129.0,18900.0,Multifamily Housing,Multifamily Housing,28.1,531660.1,230500.0,301160.2,,,,,,,,,,,,,,2021
-105592,1002474000,sabema llc,31 Heath St,02130,31 Heath St,2130.0,37720.0,Vocational School,Vocational School,34.2,1291576.9,583245.6,708331.2,,,,,,,,,,,,,,2021
-105596,0304878000,saint francis house inc,39 Boylston St,02116,39 Boylston St,2116.0,75319.0,Multifamily Housing,"Multifamily Housing,Office,Other,Restaurant",94.3,7098905.3,4775003.2,2323902.3,,,,,,,,,,,,,,2021
-105605,2100469000,sanieoff sieon,1027-1033 Commonwealth Ave,02134,1027  1033 Commonwealth Av,2134.0,43929.0,Multifamily Housing,"Multifamily Housing, Restaurant",75.5,3317969.9,1732618.2,1585351.7,,,,,,,,,,,,,,2021
-105606,2100471000,sanieoff sieon,1039-1045 Commonwealth Ave,02134,1039  1045 Commonwealth Av,2134.0,36796.0,Multifamily Housing,"Multifamily Housing, Retail Store",47.4,1744053.3,1258866.9,485186.4,,,,,,,,,,,,,,2021
-105611,0501199000,saunders donald l trsts etal,29-31 Newbury St,02116,29  31 Newbury St,2116.0,25597.0,Office,"Office,Retail Store",53.4,1366236.6,895500.0,470736.6,,,,,,,,,,,,,,2021
-105613,0501135000,saunstar land co llc,130 Columbus Ave,02116,130 Columbus Av,2116.0,63546.0,Other - Entertainment/Public Assembly,Other - Entertainment/Public Assembly,59.2,3762995.3,2041300.2,1721695.2,,,,,,,,,,,,,,2021
-105629,0601162000,sblca realty corp,368-372 W Broadway,02127,368  372 W Broadway,2127.0,22992.0,Social/Meeting Hall,"Medical Office,Social/Meeting Hall",52.7,1211452.2,589853.8,621598.5,,,,,,,,,,,,,,2021
-105645,1901395000,seaverns brown realty trust,9-11 Seaverns Ave,02130,9  11 Seaverns Av,2130.0,20336.0,Multifamily Housing,Multifamily Housing,94.1,1914292.9,1449500.0,464792.9,,,,,,,,,,,,,,2021
-105656,2102177000,selkirk village llc,56-58 Selkirk Rd,02135,56  58 Selkirk Rd,2135.0,21008.0,Multifamily Housing,Multifamily Housing,52.6,1105051.7,866918.0,238133.7,,,,,,,,,,,,,,2021
-105659,0306624010,sepia condominium trust,30  36 Traveler St,02118,30  36 Traveler St,2118.0,121200.0,Multifamily Housing,"Multifamily Housing, Outpatient Rehabilitation/Physical Therapy, Personal Services (Health/Beauty, Dry Cleaning, etc), Restaurant",46.4,5624079.1,2119231.9,3504847.3,,,,,,,,,,,,,,2021
-105677,0503207200,seven 55 boylston llc,755 Boylston St,02116,755 Boylston St,2116.0,54384.0,Multifamily Housing,,42.8,2330158.1,1126500.0,1203658.1,,,,,,,,,,,,,,2021
-105693,0501048000,seventy 5 clarendon street,75 Clarendon St,02116,75 Clarendon St,2116.0,46100.0,Multifamily Housing,Multifamily Housing,46.3,2134345.2,608362.3,1525982.9,,,,,,,,,,,,,,2021
-105772,0306731010,siena ink block llc,40 Traveler St,02118,40 Traveler St,2118.0,105793.0,Multifamily Housing,Multifamily Housing,46.9,4963870.7,2197161.7,2766708.9,,,,,,,,,,,,,,2021
-105798,0106057000,sitt eddie trsts,16-30 Bennington St,02128,16  30 Bennington St,2128.0,11298.0,Other,,185.9,2100613.9,1308600.0,792013.9,,,,,,,,,,,,,,2021
-105820,0301609000,slesar joseph ts,110-118 Canal St,02114,118  112 Canal St,2114.0,56840.0,Office,"Office,Parking",48.4,2748297.2,643100.0,2105197.2,,,,,,,,,,,,,,2021
-105823,0100549001,slumber time llc,225 William F Mcclellan Hwy,02128,225 Wm F Mcclellan Hw,2128.0,148988.0,Hotel,"Hotel, Swimming Pool",102.3,15248693.7,5528315.2,9720378.6,,,,,,,,,,,,,,2021
-105831,0801946000,smookler deborah c,2000 Washington St,02119,2000 Washington St,2119.0,18000.0,Parking,,195.3,3514654.1,0.0,1063360.0,,,,,,,,,,,,,,2021
-105878,0202156001,spice street llc,40-46 Cambridge St,02129,2  12 Spice St,2129.0,27858.0,Office,"Multifamily Housing,Office",24.8,691646.7,422300.0,269346.7,,,,,,,,,,,,,,2021
-105894,2201904000,ss brighton ma llc,145 N Beacon St,02135,145 N Beacon St,2135.0,128855.0,Self-Storage Facility,Self-Storage Facility,12.4,1602683.3,603699.3,998984.1,,,,,,,,,,,,,,2021
-105901,0504281010,st cecilias house inc,108 Kilmarnock St,02215,108 Kilmarnock St,2215.0,77940.0,Multifamily Housing,Multifamily Housing,62.2,4844324.2,3112151.9,1732172.1,,,,,,,,,,,,,,2021
-105947,1703663030,standish village landlord llc,1190 Adams St,02124,1190 Adams St,2124.0,56131.0,Senior Living Community,,127.9,7180874.9,4824556.9,2356318.0,,,,,,,,,,,,,,2021
-105950,0203511400,starboard leasehold,45 First St,02129,45 First St,2129.0,47454.0,Multifamily Housing,Multifamily Housing,39.7,1883852.2,1064300.0,819552.2,,,,,,,,,,,,,,2021
-105956,0303748000,steamboat realty llc,92 State St,02109,92  90 State St,2109.0,26424.0,Office,Office,101.0,2669268.3,1516200.0,1153068.3,,,,,,,,,,,,,,2021
-"105970, 105971, 105972, 105973, 105974",,stoney end condo tr,53-55 Chandler St & 78-84 Berkley St ,02116,,,34350.0,Multifamily Housing,", ",25.1,861144.4,,861144.4,,,,,,,,,,,,24240560.0,,2021
-105974,0501007000,stoney end condo tr,55 Chandler St,02116,84  76 Berkeley St,2116.0,5610.0,Multifamily Housing,,25.1,861144.4,,861144.4,,,,,,,,,,,,24240560.0,,2021
-105977,0304785000,stp llc mass llc,60-70 Temple Pl,02111,477  481 Washington St,2111.0,57306.0,Office,"Office, Retail Store",43.3,2478547.8,396600.0,2081947.8,,,,,,,,,,,,,,2021
-106007,2005788000,sumark associates llc,1910-1920 Centre St,02132,1910  1920 Centre St,2132.0,25350.0,Other,"Bank Branch, Office, Other, Outpatient Rehabilitation/Physical Therapy, Parking",31.0,786079.8,302685.0,483394.8,,,,,,,,,,,,22487033.0,,2021
-106043,0602646010,t-c fort point creative,374-382 Congress St,02210,374 Congress St,2210.0,98010.0,Office,"Office, Restaurant",125.3,12279618.0,7762359.1,4517259.4,,,,,,,,,,,,,,2021
-106044,0602660010,t-c fort point creative,33-41 Farnsworth St,02210,33  41 Farnsworth St,2210.0,94381.0,Office,Office,38.7,3656146.9,2330506.4,1325640.5,,,,,,,,,,,,,,2021
-106045,0602662015,t-c fort point creative,44-54 Farnsworth St,02210,44 Farnsworth St,2210.0,93824.0,Office,Office,29.1,2727053.8,,1964506.8,,,,,,,,,,,,,,2021
-106046,0602663010,t-c fort point creative,34-36 Farnsworth St,02210,34 Farnsworth St,2210.0,25000.0,Office,Office,92.0,2300259.8,1024226.4,1276033.4,,,,,,,,,,,,,,2021
-106047,0602667000,t-c fort point creative,332-334 Congress St,02210,332 Congress St,2210.0,36192.0,Office,"Office, Restaurant",25.7,931013.7,21900.0,909113.8,,,,,,,,,,,,,,2021
-106048,0602702000,t-c fort point creative,259-267 Summer St,02210,10 Melcher St,2210.0,64564.0,Office,"Office, Retail Store",78.3,5058543.8,1812261.3,3246282.6,,,,,,,,,,,,,,2021
-106068,2200562002,tdc 1234 owner llc,1234 Soldiers Field Rd,02134,1234 Soldiers Field Rd,2134.0,58550.0,Hotel,"Hotel,Parking",92.6,5423532.4,3780168.8,359031.1,,,,,,,,,,,,,,2021
-106070,0503210000,tdc property boylston llc,761 Boylston St,02116,761 Boylston St,2116.0,41440.0,Retail Store,,336.2,13930270.3,7535500.0,6394770.4,,,,,,,,,,,,,,2021
-106074,2102533000,temple bnai moshe,16 Sidlaw Rd,02135,16 Sidlaw Rd,2135.0,34425.0,Worship Facility,"Adult Education,Pre-school/Daycare,Worship Facility",43.0,1478748.9,1064651.5,414097.4,,,,,,,,,,,,,,2021
-106092,0304669000,tga 70 federal street llc,70 Federal St,02110,70 Federal St,2110.0,71872.0,Office,Office,72.9,5239516.3,,2557751.2,,,,2681765.1,,,,,,,,,,2021
-106105,0203506010,the parris landing cond trst,42 8Th St,02129,42 Eighth St,2129.0,600580.0,Multifamily Housing,,19.9,11930416.3,11930416.3,,,,,,,,,,,,,,,2021
-106112,0302953018,the residences at interconti,500 Atlantic Av,02210,500 Atlantic Av,2210.0,697555.0,Hotel,,93.7,65339168.7,2573799.7,20706718.3,,,,42058650.9,,,,,,,,,,2021
-106114,0600026000,the residences at twenty-six west broadway llc,26 W Broadway #1,02127,26 Hf26 W Broadway,2127.0,34000.0,Multifamily Housing,Multifamily Housing,84.2,2862564.8,1739296.8,1123267.9,,,,,,,,,,,,,,2021
-106116,2202177000,the saybrook condominium trust,212-214 Market St,02135,214 Market St,2135.0,35000.0,Multifamily Housing,,37.1,1296827.3,587800.0,709027.2,,,,,,,,,,,,,,2021
-106139,0602751300,thirty-5 channel ctr condo,35 Channel Center St,02210,35 Channel Center St,2210.0,72193.0,Multifamily Housing,Multifamily Housing,47.6,3436272.3,1445500.0,1990772.3,,,,,,,,,,,,,,2021
-106175,0602687000,three- 81 congress st llc mass llc,381-389 Congress St,02127,381  389 Congress St,2127.0,44236.0,Multifamily Housing,"Multifamily Housing,Restaurant",82.8,3664059.8,1094800.0,2569259.9,,,,,,,,,,,,,,2021
-106178,2101759000,three-30 summit av condo tr,330 Summit Ave,02135,330 Summit Av,2135.0,18240.0,Multifamily Housing,,38.8,707263.2,523800.0,183463.2,,,,,,,,,,,,,,2021
-106247,0304390000,trea 99 high street llc,99 High St,02110,99 High St,2110.0,731205.0,Office,"Bank Branch, Office, Other - Restaurant/Bar, Parking",60.2,43992807.8,21800959.0,22191849.3,,,,,,,,,,,,,,2021
-106249,0702737000,tregoning william l trsts,71 Von Hillern St,02125,71 Von Hillern St,2125.0,58591.0,Manufacturing/Industrial Plant,Manufacturing/Industrial Plant,62.5,3662949.7,1343300.0,1207134.9,,,,,,1112514.6,,,,,,,,2021
-106260,0105402010,trinity east boston two lp mass lps,113 Sumner St,02128,115  123 Sumner St,2128.0,98784.0,Multifamily Housing,,57.0,5631662.9,4251710.2,1379952.7,,,,,,,,,,,,,,2021
-106274,0401053010,trinity place condominium tr,1 Huntington Ave,02116,1 Huntington Av,2116.0,177636.0,Multifamily Housing,"Multifamily Housing,Other - Restaurant/Bar,Other - Services,Parking",114.8,20396195.4,2212805.8,8774957.7,,,,9408432.1,,,,,,0.0,,,,2021
-106335,0501604000,tudor condominium trust,34Hf Beacon St,02108,34 Hf Beacon St,2108.0,45000.0,Multifamily Housing,Multifamily Housing,49.5,2229315.6,930165.9,1299149.7,,,,,,,,,,,,,,2021
-106360,2000086000,twenty -24 corinth rlty llc,20-24 Corinth St,02131,20  24 Corinth St,2131.0,10960.0,Retail Store,,54.0,592163.1,155700.0,436463.0,,,,,,,,,,,,,,2021
-106367,2100921000,twenty 8 quint av condo tr,28 Quint Ave,02134,28 Quint Av,2134.0,24830.0,Multifamily Housing,Multifamily Housing,94.7,2351838.1,2029939.7,321898.3,,,,,,,,,,,,,,2021
-106373,0602751100,twenty-5 channel ctr condo,25 Channel Center St,02210,25 Channel Center St,2210.0,131888.0,Multifamily Housing,Multifamily Housing,43.8,5775033.3,2020772.2,3754261.1,,,,,,,,,,,,,,2021
-106397,0602752000,two 49a st cooperative corp,6 Binford St,02210,6 Binford St,2210.0,79916.0,Multifamily Housing,Multifamily Housing,44.5,3552401.2,,895377.0,,,,,,2657024.1,,,,,,,,2021
-106399,0103667000,two 66 border llc mass llc,266 Border St,02128,266  268 Border St,2128.0,34579.0,Manufacturing/Industrial Plant,,1.9,66759.2,0.0,66759.2,,,,,,,,,,,,,,2021
-106418,0304023000,two sixty franklin inc,260 Franklin St,02109,260 Franklin St,2109.0,372562.0,Office,"Office, Parking",43.8,16313756.1,,16313754.7,,,,,,,,,,,,,,2021
-106430,2200942000,u store it lp,130 Lincoln St,02135,130 Lincoln St,2135.0,51516.0,Self-Storage Facility,,34.8,1794006.2,1439529.1,354477.1,,,,,,,,,,,,,,2021
-106444,0304684000,union club of boston inc,7-8 Park St,02108,8  7 Park St,2108.0,37470.0,Social/Meeting Hall,Social/Meeting Hall,62.5,2343309.1,342514.2,763213.9,,,,1237581.1,,,,,,,,,,2021
-106526,0400600020,urban investment dev co le,128 Dartmouth St,02116,128 Dartmouth St,2116.0,241550.0,Parking,,6.8,1630720.3,,1630720.4,,,,,,,,,,,,,,2021
-106528,0602754010,us vi tower point llc,27-43 Wormwood St,02127,27  43 Wormwood St,2127.0,156510.0,Office,"Data Center,Office,Parking",44.2,6917597.9,,6917598.0,,,,,,,,,,,,,,2021
-106537,2101451000,value store it mahopac llc,1360 Commonwealth Ave,02134,1360 Commonwealth Av,2134.0,68296.0,Self-Storage Facility,Self-Storage Facility,7.5,513330.1,264993.5,248336.6,,,,,,,,,,,,,,2021
-106540,2007833020,vch-sc llc,631A-639 Vfw Pkwy,02132,631 Vfw Pw,2132.0,70042.0,Strip Mall,"Medical Office, Parking, Strip Mall",93.0,6512151.3,553676.8,5958474.5,,,,,,,,,,,,,,2021
-106589,2011737000,village grove condo assn inc,287-321 Grove St,02132,287  321 Grove St,2132.0,8700.0,Multifamily Housing,Multifamily Housing,22.1,191969.3,,191969.4,,,,,,,,,,,,,,2021
-106590,2011737000,village grove condo assn inc,287 Grove St,02132,287  321 Grove St,2132.0,8700.0,Multifamily Housing,Multifamily Housing,30.1,261485.4,,261485.4,,,,,,,,,,,,,,2021
-106591,2011737000,village grove condo assn inc,311 Grove St #13,02132,287  321 Grove St,2132.0,8700.0,Multifamily Housing,Multifamily Housing,26.2,228307.2,,228307.2,,,,,,,,,,,,,,2021
-106618,0303515000,walsh james h iii ts,210-218 Commercial St,02109,210  218 Commercial St,2109.0,25900.0,Office,Office,42.4,1098100.3,352815.2,745284.9,,,,,,,,,,,,,,2021
-106643,1806017110,washington beech,4560-4578 Washington St,02131,4560 Washington St,2131.0,97900.0,Multifamily Housing,,33.8,3311515.7,2012352.4,1299163.4,,,,,,,,,,,,,,2021
-106672,2101724000,washington square condo tr,309-319 Allston St,02135,309  319 Allston St,2135.0,84131.0,Multifamily Housing,,69.0,5802581.8,63525.0,701684.6,,,,,,,,,,,,,,2021
-106754,0306010010,wilkes passage lofts,1293-1317 Washington St,02118,1293  1317 Washington St,2118.0,268250.0,Multifamily Housing,"Multifamily Housing, Parking",49.0,13142652.7,7164339.9,5978311.9,,,,,,,,,,,,,,2021
-106789,2101674000,york terrace condo tr,5 11 Vinal St,02135,5  11 Vinal St,2134.0,54464.0,Multifamily Housing,,47.7,2598070.8,1243300.0,267896.6,,,,,,,,,,,,,,2021
-106807,1700075000,nor-al housing associates,18 Algonquin St,02124,18 Algonquin St,2124.0,53732.0,Multifamily Housing,Multifamily Housing,103.9,5584654.1,4267287.8,1317366.4,,,,,,,,,,,,,,2021
-106822,2202645000,boston rehab assoc gp,181 Parsons St,02135,181 Parsons St,2135.0,14432.0,Multifamily Housing,,74.6,1075934.9,,221251.1,,,,,,854683.7,,,,,,,,2021
-106829,0302700104,bulfinch wpb1 owner llc,110 Sudbury St,02114,110 Sudbury St,2114.0,120316.0,Multifamily Housing,Multifamily Housing,24.6,2959088.7,412374.2,2546714.4,,,,,,,,,,,,,,2021
-106837,0300445010,dont look back llc (lessee),215 Charles St,02114,215 239 Charles St,2114.0,239000.0,Hotel,,190.4,45504836.4,31530518.1,13974316.9,,,,,,,,,,,,,,2021
-106854,0702442000,city of boston,William J Day Blvd,02127,William J Day Blvd,2127.0,73035.0,Other - Recreation,Other - Recreation,13.4,975069.8,908797.9,66271.9,,,,,,,,,,,,,,2021
-106884,0104164006,city of boston,143 Porter St,02128,Orleans St,2128.0,36753.0,Other - Recreation,Other - Recreation,18.2,735680.4,,500224.8,,,,,,235455.6,,,,,,4019903.0,,2021
-106910,1600672000,city of boston,Bispham St,02122,Bispham St,2122.0,6562.0,Self-Storage Facility,"Office, Self-Storage Facility",84.3,553240.7,402429.0,150811.7,,,,,,,,,,,,4019948.0,,2021
-106941,2203357000,city of boston,419 Faneuil St,02135,419 Faneuil St,2135.0,10615.0,Library,Library,12.4,132134.2,117695.0,14439.2,,,,,,,,,,,,,,2021
-107073,2100210000,trustees of boston university,856 Beacon St                                       ,02115,856-862 Beacon St,2115.0,39733.0,Multifamily Housing,Multifamily Housing,101.5,4033627.2,3516602.6,517024.5,,,,,,,,,,,,,,2021
-107091,0402024000,wentworth institute,550 Huntington Ave,02115,550 Huntington Av,2115.0,22780.0,College/University,College/University,316.6,7213182.7,659923.8,6553257.8,,,,,,,,,,,,4142215.0,,2021
-107103,0402044000,wentworth institute of technology inc,550 Parker St,02115,55 Annunciation Rd,2120.0,52009.0,College/University,College/University,167.4,8707127.2,5682442.1,3024685.1,,,,,,,,,,,,23642154.0,,2021
-107168,0903671000,boston housing auth,52-68 Highland Park,02119,,,204444.5751,Multifamily Housing," ,  ",118.9861635,22482654.17,3451942.459,4089164.289,,,,,,,,,,,,,,2021
-107173,0302726004,us reif 100 cambridge street,100 Cambridge St,02114,100 Cambridge St,2114.0,780614.0,Office,,54.9,42844820.9,4704738.8,38140086.6,,,,,,,,,,,,,,2021
-107188,1203486002,city of boston,1-2-Admin Building,02124,Morton St,2124.0,19826.0,Office,,53.5,1060916.4,,,,,,,,,,,,,,22121298.0,,2021
-107273,2101724000,washington square condo tr,1560 - 1576 Commonwealth Ave,02135,309  319 Allston St,2135.0,70109.0,Multifamily Housing,,75.4,5289604.9,30782.2,706464.8,,,,,,,,,,,,,,2021
+BERDO ID,Tax Parcel ID,Property Owner Name,Building Address,Building Address Zip Code,Parcel Address,Parcel Address Zip Code,Reported Gross Floor Area (Sq Ft),Largest Property Type,All Property Types,Site EUI (Energy Use Intensity kBtu/ft2),Total Site Energy Usage (kBtu),Natural Gas Usage (kBtu),Electricity Usage (kBtu),Renewable System Electricity Usage Onsite (kBtu),District Hot Water Usage (kBtu),District Chilled Water Usage (kBtu),District Steam Usage (kBtu),Fuel Oil 1 Usage (kBtu),Fuel Oil 2 Usage (kBtu),Fuel Oil 4 Usage (kBtu),Fuel Oil 5 and 6 Usage (kBtu),Propane Usage (kBtu),Diesel Usage (kBtu),Kerosene Usage (kBtu),Cooresponding Campus ID,Data Year
+100011,0306234010,1000 washington (boston),1000-1020 Washington St,02118,321 Harrison Av,2118.0,274560.0,Office,"Laboratory,Parking",46.3,12710230.2,,11118343.2,,,,,,,,,,,,,2021
+100017,0304717000,101bos llc,100-102 Tremont St,02108,75  59 Bromfield St,2108.0,78608.0,Office,"Office, Restaurant",121.8,9575445.3,4659840.3,4915603.6,,,,,,,,,,,,,2021
+100025,2100753000,1139 commonwealth llc mass llc,1139 Commonwealth Ave,02134,1139 Commonwealth Av,2134.0,23830.0,Multifamily Housing,Multifamily Housing,79.9,1903822.2,1727718.7,176103.6,,,,,,,,,,,,,2021
+100030,0703576000,1246 mass ave llc,1246-1250 Massachusetts Ave,02125,1246 Massachusetts Av,2125.0,26140.0,Manufacturing/Industrial Plant,,205.7,5377084.2,3746099.8,1630984.5,,,,,,,,,,,,,2021
+100043,0304692050,14 beacon street llc,14 14A Beacon St,02108,14 14A Beacon St,2108.0,88203.0,Office,"Library, Office",33.3,2935311.2,1554590.8,1380720.4,,,,,,,,,,,,,2021
+100093,0305364005,245 summer street llc,245 Summer St,02210,245 Summer St,2210.0,906422.0,Office,"Data Center, Financial Office, Office, Restaurant",76.7,69545726.9,13937549.2,54643418.8,,,,,,964758.1,,,,,,,2021
+100105,1600589000,286 adams street llc,286 Adams St,02122,101 Park St,2122.0,27060.0,"Repair Services (Vehicle, Shoe, Locksmith, etc)","Repair Services (Vehicle, Shoe, Locksmith, etc)",27.7,749174.3,366808.5,382365.8,,,,,,,,,,,,,2021
+100111,0304947000,30 kneeland llc,24-44 Kneeland St,02111,24  44 Kneeland St,2111.0,20218.0,Office,,75.9,1535112.8,716400.0,818712.8,,,,,,,,,,,,,2021
+100119,1102013000,3193 washington development llc,3193-3201 Washington St,02130,3193  3201 Washington St,2130.0,45710.0,Multifamily Housing,,26.0,1188039.5,489900.0,698139.6,,,,,,,,,,,,,2021
+100122,0104128000,320 maverick place condominium  trust,320 Maverick St,02128,320 Maverick St,2128.0,16537.0,Multifamily Housing,,86.4,1427984.6,884900.0,543084.6,,,,,,,,,,,,,2021
+100123,1102371010,3200 washington street llc,3190  3204 Washington St,02130,3190  3204 Washington St,2130.0,107000.0,Multifamily Housing,"Multifamily Housing,Office,Parking,Restaurant",28.5,3049725.9,256400.0,2793325.9,,,,,,,,,,,,,2021
+100125,1102589000,3383 holdings llc,3385-3389 Washington St,02130,3383 - 3389R Washington St,2130.0,27633.0,Multifamily Housing,Multifamily Housing,29.9,825127.7,308800.0,516327.7,,,,,,,,,,,,,2021
+100133,0602653010,370 congress street llc,368 Congress St,02210,368 Congress St,2210.0,99726.0,Hotel,Hotel,57.0,5683288.4,2255526.2,3427763.4,,,,,,,,,,,,,2021
+100146,0602642060,399 congress llc,399 Congress St,02210,399 Congress St,2210.0,481242.0,Multifamily Housing,,28.2,13555924.0,0.0,13555923.8,,,,,,,,,,,,,2021
+100149,0303830000,4 liberty ma llc,99-107 Water St,02109,4 Liberty Sq,2109.0,26250.0,Office,"Office, Other - Restaurant/Bar",44.1,1158617.9,599200.0,559417.9,,,,,,,,,,,,,2021
+100171,0801138000,46 pplympton acquisition llc,61-63 Wareham St,02118,61  63 Wareham St,2118.0,28600.0,Office,Office,29.9,853994.4,,231534.9,,,,,,622459.5,,,,,,,2021
+100179,1400116000,50 ceylon street llc,50-80 Ceylon St,02121,50 Ceylon St,2121.0,20238.0,Non-Refrigerated Warehouse,Non-Refrigerated Warehouse,17.0,343916.1,,300116.1,,,,,,,43800.0,,,,,,2021
+100195,1401292000,56-58 bowdoin avenue llc,56-58 Bowdoin Ave,02121,56  58 Bowdoin Av,2121.0,31570.0,Multifamily Housing,Multifamily Housing,42.2,1333821.8,955100.0,378721.8,,,,,,,,,,,,,2021
+100203,0602678701,601 congress ma llc  lessee,601 Congress St,02210,601 Congress St,2210.0,446760.0,Financial Office,"Data Center,Financial Office,Parking",29.2,13063405.2,31000.0,13032403.5,,,,,,,,,,,,,2021
+100211,0501413000,66 beacon street holdings  llc,65-66H Beacon St,02108,65 66H Beacon St,2108.0,28800.0,Multifamily Housing,"Multifamily Housing, Retail Store",94.6,2723269.8,1994900.0,728369.9,,,,,,,,,,,,,2021
+100220,0402600000,715-725 tremont street condominium trust,725-743 Tremont St,02118,725 Tremont St,2118.0,133677.0,Multifamily Housing,Multifamily Housing,47.0,6280859.8,4880534.1,1400325.7,,,,,,,,,,,,,2021
+100223,0402660000,715-725 tremont street condominium trust,705-723 Tremont St,02118,715 Tremont St,2118.0,133677.0,Multifamily Housing,Multifamily Housing,44.7,5979780.7,4348800.3,1630980.4,,,,,,,,,,,,,2021
+100234,0401037800,776 - 778 boylston primary,772-778 Boylston St,02116,772  778 Boylston St,2116.0,452336.0,Multifamily Housing,"Bar/Nightclub, Hotel, Multifamily Housing, Other - Mall, Restaurant, Social/Meeting Hall",110.8,50103269.5,1864600.0,27158346.3,,,,21012013.2,,,,,,68310.0,,,2021
+100237,0602674003,8 seafood way llc - sub lessee,8 Seafood Wy,02210,8 Seafood Wy,2210.0,71350.0,Other,Other,80.6,5754368.7,,5754368.7,,,,,,,,,,,,,2021
+100269,2009228010,abnote usa inc,225-227 Rivermoor St,02132,225 Rivermoor St,2132.0,125072.0,Manufacturing/Industrial Plant,Manufacturing/Industrial Plant,151.7,18976948.6,4069198.8,14907751.3,,,,,,,,,,,,,2021
+100297,0304884000,action for boston community,178-179 Tremont St,02111,178  179 Tremont St,2111.0,51161.0,Office,Office,101.4,5189284.6,2616266.5,2573018.2,,,,,,,,,,,,,2021
+100316,0802195020,adams orchard lps mass lps,25 Ambrose St,02119,25 Ambrose St,2119.0,64000.0,Multifamily Housing,Multifamily Housing,46.3,2966183.6,2140029.2,826154.4,,,,,,,,,,,,,2021
+100375,1001628000,american cancer society,125 S Huntington Ave,02130,125 S Huntington Av,2199.0,50540.0,Hotel,,21.2,3596326.6,1798015.5,1798311.0,,,,,,,,,,,,,2021
+"100382, 100383",,,64-68 & 70-74 American Legion Hwy,02124,,,52188.0,Multifamily Housing,", ",113.4,5915639.5,5353239.5,562400.0,,,,,,,,,,,,22816898.0,2021
+100404,2003601001,apostolic exarchate,7 Vfw Pkwy,02132,5  15 Vfw Pw,2132.0,38375.0,Worship Facility,Worship Facility,43.3,1660992.7,1417186.6,243806.1,,,,,,,,,,,,,2021
+100429,0801361005,artblock condominium trust,725 Harrison Ave,02118,725  735 Harrison Av,2118.0,36057.0,Multifamily Housing,,49.4,3646910.9,1912100.0,1734810.9,,,,,,,,,,,,24223126.0,2021
+100446,1604854020,ashmont homeownership assoc,1906  1918 Dorchester Av,02124,1906  1918 Dorchester Av,2124.0,186139.0,Multifamily Housing,Multifamily Housing,72.6,13505624.6,9070700.3,4434924.4,,,,,,,,,,,,,2021
+100479,2100167000,audubon park condo tr,16 Miner St,02215,16 Miner St,2215.0,84310.0,Multifamily Housing,Multifamily Housing,38.1,3208041.0,1479293.2,1728747.8,,,,,,,,,,,,,2021
+100493,0503227000,babson united inc,210-214 Newbury St,02116,212  208 Newbury St,2116.0,41060.0,Retail Store,,24.0,987450.4,,752850.0,,,,234600.4,,,,,,,,,2021
+100548,0303095000,battery street condo tr,376 Commercial St,02109,21  23 Battery St,2109.0,26459.0,Multifamily Housing,Multifamily Housing,37.9,1001623.3,,1001623.3,,,,,,,,,,,,,2021
+100558,0901233000,bc camden limited,50-60 Camden St,02118,50  60 Camden St,2118.0,72228.0,Multifamily Housing,,68.8,4969352.3,3682642.2,1286710.2,,,,,,,,,,,,,2021
+100575,0305346000,beach street condominium tr,123 Beach St,02111,121  123 Beach St,2111.0,48000.0,Multifamily Housing,,19.4,933226.4,,933226.4,,,,,,,,,,,,,2021
+100613,0304245000,bedford ave. boston real estate holding llc,89-103 Bedford St,02111,89  105 Bedford St,2111.0,88631.0,Office,Office,44.9,3981609.4,2164612.8,1816996.5,,,,,,,,,,,,,2021
+100614,2005737000,belgrade place llc mass llc,446 Belgrade Ave,02132,446 Belgrade Av,2132.0,56129.0,Multifamily Housing,"Multifamily Housing, Parking",34.5,1937342.5,560000.0,1377342.5,,,,,,,,,,,,,2021
+100618,0401037600,belvidere condominium trust,100 Belvidere St,02116,100 Belvidere St,2116.0,165000.0,Multifamily Housing,Multifamily Housing,31.0,5121852.4,276917.6,4844934.2,,,,,,,,,,,,,2021
+100654,1904604000,bethel african methodist,32 Walk Hill St,02130,32 Walk Hill St,2130.0,11481.0,Worship Facility,Worship Facility,2.2,25081.2,,25081.2,,,,,,,,,,,,,2021
+100655,1904604000,bethel african methodist,86 Wachusett St,02130,32 Walk Hill St,2130.0,17053.0,Worship Facility,Worship Facility,78.0,1329464.1,1287400.2,42063.9,,,,,,,,,,,,,2021
+100656,1904605000,bethel african methodist,84 Wachusett St,02130,84 Wachusett St,2130.0,21718.0,Worship Facility,"Parking,Worship Facility",5.3,115420.0,68100.0,47320.0,,,,,,,,,,,,,2021
+100679,0300670000,blackstone co mass lps,33 Blossom St,02114,33 Blossom St,2114.0,129648.0,Multifamily Housing,,51.7,6697181.9,4759957.8,1937224.1,,,,,,,,,,,,,2021
+100688,1702239000,bloomfield gardens lp,455-475 Geneva Ave,02124,4  6 Bloomfield St,2124.0,32852.0,Multifamily Housing,Multifamily Housing,56.8,1865076.6,1196147.2,668929.4,,,,,,,,,,,,,2021
+100703,0401853022,bmr-blackfan circle llc,3 Blackfan Ci,02115,3 Blackfan Ci,2115.0,751740.0,Laboratory,"Laboratory,Parking,Restaurant",437.2,328625309.4,208467883.9,120157435.6,,,,,,,,,,,,,2021
+100727,0503062000,boston architectural college,320 Newbury St,02115,320 Newbury St,2115.0,49494.0,Office,,77.2,3818653.1,,1722997.9,,,,2095655.2,,,,,,,,,2021
+"100732, 100734",,,539 Tremont St,02116,,,127619.0,Performing Arts,", ",28.3,3610301.1,2754972.2,855328.7,,,,,,,,,,,,6339298.0,2021
+100740,1303401000,boston college high,150 Morrissey Blvd,02125,160  150 Wm T Morrissey Bl,2125.0,333840.0,K-12 School,,88.9,29687109.0,23312401.0,6374707.8,0.0,,,,,,,,,,,,2021
+100770,1704417000,boston home for incurable,2049-2061 Dorchester Ave,02124,2061 Dorchester Av,2124.0,83900.0,Senior Living Community,Senior Living Community,135.7,11385845.1,8885470.9,2500374.0,,,,,,,,,,,,,2021
+100772,0900650000,boston housing auth,1701 Washington St,02118,Worcester St,2118.0,55472.0,Multifamily Housing," ,  ",197.6,10959933.6,7741599.0,3218334.5,,,,,,,,,,,,,2021
+100773,0900890000,boston housing auth,155 Northampton St,02118,155 Northampton St,2118.0,55472.0,Multifamily Housing," ,  ",74.7,4143457.7,1005100.0,3138357.6,,,,,,,,,,,,,2021
+"100774, 100775, 100776, 100777, 100778, 100779, 100780, 100781, 100782, 100783, 100784, 100785, 100786",,,1 Trotter Court,02118,,,259055.0,Multifamily Housing,", ",125.2,32441107.1,28293603.2,4147504.4,,,,,,,,,,,,23196619.0,2021
+100793,1201140000,boston housing auth,280 Martin Luther King Jr Bl,02119,280 Martin Luther King Jr Bl,2119.0,95200.0,Multifamily Housing," ,  ",101.6,9668189.3,7739999.9,1928189.4,,,,,,,,,,,,,2021
+100797,1502943000,boston housing auth,330 Bowdoin St,02122,330 Bowdoin St,2125.0,64830.0,Multifamily Housing," ,  ",84.0,5445252.4,3592399.9,1852852.5,,,,,,,,,,,,,2021
+100809,0304555000,boston housing authority,52 Chauny St,02111,50  56 Chauncy St,2111.0,79056.0,Office," ,  ",53.6,4236451.1,685354.0,3551097.0,,,,,,,,,,,,,2021
+100811,0400975000,boston housing authority,70 St Botolph St,02116,Garrison St,2116.0,90944.0,Multifamily Housing," ,  ",60.0,5454310.2,1454900.1,3999409.9,,,,,,,,,,,,,2021
+100819,0402595000,boston housing authority,755 Tremont St,02118,755 Tremont St,2118.0,55472.0,Multifamily Housing,,79.5,4411902.3,1157400.0,3254502.4,,,,,,,,,,,,,2021
+100857,0602527000,boston housing authority,120 L St,02127,120 L St,2127.0,55100.0,Multifamily Housing," ,  ",63.1,3476918.5,933300.0,2543618.4,,,,,,,,,,,,,2021
+100890,0701516000,boston housing authority,199 H St,02127,Columbia Rd,2127.0,84224.0,Multifamily Housing," ,  ",80.8,6808249.6,4841299.8,1966949.8,,,,,,,,,,,,,2021
+100974,1601530000,boston housing authority,1875 Dorchester Ave,02122,Talbot Av,2124.0,103200.0,Multifamily Housing," ,  ",57.7,5958942.8,4023499.4,1935443.4,,,,,,,,,,,,,2021
+100977,1703554000,boston housing authority,2262 Dorchester Ave,02124,2262  2266 Dorchester Av,2124.0,110110.0,Multifamily Housing,,,8065038.4,5492799.8,2572238.6,,,,,,,,,,,,,2021
+100978,1704614000,boston housing authority,784 Washington St,02124,784  786 Washington St,2124.0,64230.0,Multifamily Housing," ,  ",92.1,5917732.8,3821400.0,2096332.8,,,,,,,,,,,,,2021
+101171,2011609000,boston housing authority,5300 Washington St,02132,5300 Washington St,2132.0,47460.0,Multifamily Housing," ,  ",66.1,3138437.4,735400.0,2403037.5,,,,,,,,,,,,,2021
+101174,2101840000,boston housing authority,91-95 Washington St,02135,91  95 Washington St,2135.0,264600.0,Multifamily Housing," ,  ",28.9,7649498.3,6573899.4,1075598.9,,,,,,,,,,,,,2021
+101178,2102001000,boston housing authority,20 Washington St,02135,65 Egremont Rd,2135.0,191105.0,Multifamily Housing," ,  ",60.0,11472423.4,7307599.7,4164823.7,,,,,,,,,,,,,2021
+101204,0801067010,boston public health comm,794 Massachusetts Ave,02118,774 Albany St,2118.0,44621.0,Medical Office,"Medical Office, Residential Care Facility",63.7,5820889.1,2441370.0,3379519.1,,,,,,,,,,,,4035841.0,2021
+101221,2101103000,boston rehabilitation,1391 Commonwealth Ave,02134,1391 Commonwealth Av,2134.0,50136.0,Multifamily Housing,,53.8,2697788.3,,551891.0,,,,,,2145897.3,,,,,,,2021
+101290,0504140000,boston university trustee of,580 Commonwealth Ave,02215,580 Commonwealth Av,2215.0,124795.0,Multifamily Housing,Multifamily Housing,33.3,4151182.3,4775.6,4146405.7,,,,,,,,,,,,,2021
+101296,0201834050,boston water & sewer,180-220 Alford St,02129,Alford St,2129.0,71820.0,Office,,16.0,1149809.2,306996.8,842812.5,,,,,,,,,,,,,2021
+101297,0801093010,boston water & sewer,120 Malden St,02118,120 Malden St,2118.0,88481.0,Other - Utility,,151.1,13365449.6,8976099.7,4389350.3,,,,,,,,,,,,,2021
+101299,0801984010,boston water & sewer,0,02119,924  980 Harrison Av,2119.0,522465.0,Office,,36.3,18980434.5,8144036.8,10836396.0,,,,,,,,,,,,,2021
+101321,0501297000,boylston ll llc,535-541 Boylston St,02116,535  541 Boylston St,2116.0,104036.0,Office,Office,69.2,7200412.3,90192.9,3857487.8,,,,3252732.2,,,,,,,,,2021
+101322,0501298000,boylston ll llc,543-547 Boylston St,02116,543 A547 Boylston St,2116.0,97790.0,Office,"Office, Restaurant",77.9,7616279.9,,4403629.6,,,,3212650.4,,,,,,,,,2021
+101327,0200457000,boys club of boston,60 High St,02129,60 High St,2129.0,26160.0,Other - Recreation,Other - Recreation,120.2,3143388.9,2302099.8,841289.0,,,,,,,,,,,,,2021
+101328,0700824020,boys club of boston inc mass,230 W Sixth St,02127,240 W Sixth St,2127.0,14000.0,Social/Meeting Hall,Other - Recreation,164.4,2301600.0,2313280.7,1121733.6,,,,,,,,,,,,,2021
+101329,0200448000,boys club of boston mass,9-15 Green St,02129,13 Green St,2129.0,33368.0,Other - Recreation,Other - Recreation,75.0,2501279.8,978988.9,1522291.1,,,,,,,,,,,,,2021
+101330,1201200000,boys club of boston the,115 Warren St,02119,115 Warren St,2119.0,43971.0,Other - Recreation,"Other - Recreation, Parking",106.7,4689790.9,3469068.8,1220722.2,,,,,,,,,,,,,2021
+101352,1800113800,bphc mattapan development,229 A River St,02126,229 A River St,2126.0,74698.0,Multifamily Housing,Multifamily Housing,51.8,3869017.6,2412851.0,1456166.5,,,,,,,,,,,,,2021
+101354,2007011000,brackett kristine ts,"8-48 & 64-76 Bryon Rd, 15-46 Westgate Rd",02467,64  76 Bryon Rd,2467.0,384552.0,Multifamily Housing,,50.9,19587432.0,17891401.8,1696030.1,,,,,,,,,,,,,2021
+101366,0100534000,brandywyne village co,88 Brandywyne Dr,02128,870 908A Saratoga St,2128.0,385660.0,Multifamily Housing,Multifamily Housing,71.9,27733588.9,22487675.4,5245912.5,,,,,,,,,,,,,2021
+101412,0304664000,bre quad ma owner llc,157-175 Devonshire St,02110,159  175 Devonshire St,2110.0,88385.0,Hotel,Hotel,102.1,9027452.8,979385.8,4416083.4,,,,3631983.6,,,,,,,,,2021
+101420,0305340010,brickman lincoln llc,182-192 Lincoln St,02111,182  192 Lincoln St,2111.0,74160.0,Office,Office,44.3,3286170.2,127005.1,1312048.8,,,,,,1847116.2,,,,,,,2021
+101470,0501308000,bromley paul trsts,601-607 Boylston St,02116,601 Boylston St,2116.0,47583.0,Office,,50.8,2415037.6,1131178.8,1283858.8,,,,,,,,,,,,,2021
+101505,0401128010,brookline bank,131 Clarendon St,02116,131 Clarendon St,2116.0,70346.0,Financial Office,,53.1,3735739.9,2421299.9,1314439.9,,,,,,,,,,,,,2021
+101524,0504148001,buckminster prof bldg cp,655-665 Beacon St,02215,655  665 Beacon St,2215.0,32001.0,Office,,47.6,1524120.3,996925.4,527194.9,,,,,,,,,,,,,2021
+101689,2008806000,centre street holdings llc mass llc,1993 Centre St,02132,1991  2009 Centre St,2132.0,4342.0,Bank Branch,"Bank Branch, Parking",51.4,223205.2,51161.2,172043.9,,,,,,,,,,,,,2021
+101690,2008806000,centre street holdings llc mass llc,1999 Centre St,02132,1991  2009 Centre St,2132.0,36004.0,Retail Store,"Parking, Retail Store",40.6,1462566.6,296924.4,1165642.2,,,,,,,,,,,,,2021
+101723,0203517500,charlestown navy yard,110 First Ave,02129,77 A-103 Thirteenth St,2129.0,45188.0,Multifamily Housing,Multifamily Housing,82.0,3706606.0,,3706605.7,,,,,,,,,,,,,2021
+101731,0304956000,chen de luu,9-11 Knapp St,02111,23  9 Knapp St,2111.0,28356.0,Multifamily Housing,"Multifamily Housing, Office, Retail Store",95.5,2708683.7,383961.2,346331.6,,,,,,,,,,,,,2021
+101733,0304817000,cheng hung ts,25-31 West St,02111,25  31 West St,2111.0,24957.0,Office,,40.6,1013119.4,,532562.0,,,,,,480557.4,,,,,,,2021
+101739,2102493000,chestnut hill arms condo tr,247-249 Chestnut Hill Ave,02135,247  249 Chestnut Hill Av,2135.0,38121.0,Multifamily Housing,,81.5,3107672.6,1590469.2,72398.7,,,,,,,,,,,,,2021
+101766,0501344000,chilton club,150-152 Commonwealth Ave,02116,287 Dartmouth St,2116.0,32872.0,Social/Meeting Hall,Social/Meeting Hall,95.5,3139800.1,2195340.9,944459.3,,,,,,,,,,,,,2021
+101767,0305132000,chinese consolidated,90 Tyler St,02111,90 Tyler St,2111.0,26232.0,Other - Education,"Other - Education,Parking",25.5,668945.7,514600.0,154345.7,,,,,,,,,,,,,2021
+101770,2102538000,chiswick building co lps,125 Chiswick Rd,02135,125 Chiswick Rd,2135.0,94068.0,Multifamily Housing,Multifamily Housing,53.3,5018300.2,4731599.7,286700.5,,,,,,,,,,,,,2021
+101782,0501279000,church of the covenant,67 Newbury St,02116,67 Newbury St,2116.0,49500.0,Worship Facility,Worship Facility,51.8,2565650.4,1863772.0,701878.4,,,,,,,,,,,,,2021
+101938,0801024040,city of boston,400 Frontage Rd,02118,400 Frontage Rd,2118.0,432293.0,"Repair Services (Vehicle, Shoe, Locksmith, etc)","Office, Repair Services (Vehicle, Shoe, Locksmith, etc)",62.6,27074851.3,18803053.7,8271796.9,,,,,,,,,,,,4019946.0,2021
+102062,1402863001,city of boston,15 Talbot Ave,02124,15 Talbot Av,2124.0,47716.0,Other - Recreation,"Other - Recreation, Parking",107.6,5134082.7,3701518.1,1432564.7,,,,,,,,,,,,,2021
+102095,1808963000,city of boston,15 Everett St,02136,15 Everett St,2136.0,108832.0,K-12 School,,4.1,441688.3,340487.1,101201.3,,,,,,,,,,,,,2021
+102478,0701435000,compass landlord llc,1380 Columbia Rd,02127,1380 Columbia Rd,2127.0,26628.0,Senior Living Community,,91.0,2422784.8,1592836.7,829948.2,,,,,,,,,,,,,2021
+102479,0503198000,condo at 250 comm ave tr,250 Commonwealth Ave,02116,250 Commonwealth Av,2116.0,23600.0,Multifamily Housing,Multifamily Housing,75.2,1773954.2,1449200.0,324754.2,,,,,,,,,,,,,2021
+102486,2101375010,congregation of sister of,615-647 Cambridge St,02135,625  667 Cambridge St,2135.0,80807.0,K-12 School,"Multifamily Housing,Office,Worship Facility",53.2,4300451.9,3482936.7,817515.2,,,,,,,,,,,,,2021
+102489,0602691000,congress ventures llc mass llc,305 Congress St,02210,305 Congress St,2210.0,74673.0,Office,,46.4,3468515.5,1570521.8,1897993.6,,,,,,,,,,,,,2021
+102509,2008816000,corey wrox llc,418-428 Lagrange St,02132,418  428 Lagrange St,2132.0,13800.0,Retail Store,Retail Store,50.5,696515.8,83311.2,613204.6,,,,,,,,,,,,,2021
+"102516, 102517",,,9 West Broadway & 141 Dorchester Ave,02127,,,399711.0,Multifamily Housing,"Veterinary Office, Office",56.3,22500010.6,,12753435.0,,,,9746575.0,,,,,,,,23955815.0,2021
+102518,2201905050,courtside realty llc,40 Guest St,02135,40 Guest St,2135.0,70776.0,Parking,,518.6,36707172.9,25441496.5,11265676.8,,,,,,,,,,,,,2021
+102539,1000649000,cpt brigham circle llc del llc,1620 Tremont St,02120,1610 Tremont St,2120.0,236236.0,Office,"Bank Branch, Medical Office, Office, Parking, Restaurant, Retail Store, Supermarket/Grocery Store",117.6,27789051.9,3589800.2,24199251.7,,,,,,,,,,,,,2021
+102577,0100437000,cube smart lp,150 William F Mcclellan Hwy,02128,150 Wm F Mcclellan Hw,2128.0,108405.0,Self-Storage Facility,,13.8,1494541.6,410187.1,1084354.5,253803.0,,,,,,,,,,,,2021
+102630,0503917000,daughters of mary,20 Charlesgate W,02215,20 Charlesgate West,2215.0,58320.0,Multifamily Housing,Multifamily Housing,86.6,5047790.9,4314338.6,733452.4,,,,,,,,,,,,,2021
+102638,2100566000,deacon condominium tr,57-59 Brighton Ave,02134,57  59 Brighton Av,2134.0,25410.0,Multifamily Housing,Multifamily Housing,66.7,1696107.1,,178908.2,,,,,1517198.8,,,,,,,,2021
+102642,0304231000,deka immobilien investment,175 Federal St,02110,175 Federal St,2110.0,227365.0,Office,"Bank Branch, Data Center, Office",40.4,9188564.4,,9188563.8,,,,,,,,,,,,,2021
+102643,0304646000,deka usa franklin street lp,64-74 Franklin St,02110,64  74 Franklin St,2110.0,85072.0,Office,Office,47.4,4036429.3,,4036430.1,,,,,,,,,,,,,2021
+102649,0303895000,devonshire associated,250 Washington St,02109,228  256 Washington St,2109.0,728652.0,Multifamily Housing,"Multifamily Housing,Office,Parking,Swimming Pool",50.8,37030459.0,16714975.6,20315484.7,,,,,,,,,,,,,2021
+102688,1807972000,dorchester realty group llc,151 Providence St,02136,151 Providence St,2136.0,21726.0,Other,Other,29.0,630035.0,608200.0,21835.0,,,,,,,,,,,,,2021
+102716,0105658010,e boston neighborhood health,20 Maverick Sq,02128,20 Maverick Sq,2128.0,47777.0,Urgent Care/Clinic/Other Outpatient,Urgent Care/Clinic/Other Outpatient,101.2,4833292.2,1664700.0,3168592.4,,,,,,,,,,,,,2021
+102719,0703501030,e&a northeast lp,14 Allstate Rd,02125,14 Allstate Rd,2125.0,45261.0,Retail Store,Retail Store,48.9,2212855.3,600600.0,1612255.3,,,,,,,,,,,,,2021
+102726,0105815000,east boston neighborhood,10 Gove St,02128,10 Gove St,2128.0,57458.0,Urgent Care/Clinic/Other Outpatient,Urgent Care/Clinic/Other Outpatient,119.9,6889566.2,2860578.6,4028988.5,,,,,,,,,,,,,2021
+102738,0603773000,east second street condo trust,858-862 East Second St,02127,858  860 E Second St,2127.0,18696.0,Multifamily Housing,,44.3,828234.7,534383.0,293851.7,,,,,,,,,,,,,2021
+102770,1812340010,edgemere gardens llc mass llc,Baker St,02136,Baker St,2136.0,45700.0,Multifamily Housing,Multifamily Housing,46.0,2101289.9,1165695.7,935594.3,,,,,,,,,,,,,2021
+102811,0304831000,emerson college,543-547 Washington St,02111,543  547 Washington St,2111.0,158288.0,College/University,College/University,127.3,20151226.2,352500.0,12126623.3,,,,7654564.6,,,,,,17539.8,,22012100.0,2021
+"102811, 102813, 102814, 102815, 102816, 102817, 102818, 102819, 102820, 102821",,,120 Boylston St,02116,,,1637185.0,College/University,", ",65.1,106649831.3,3676825.7,58693019.3,,,,44175130.3,,,,,,,,22012100.0,2021
+102814,0304890100,emerson college,180 182 Tremont St,02111,180  182 Tremont St,2111.0,96649.0,College/University,College/University,56.8,5488037.2,0.0,5279643.5,,,,180987.3,,,,,,27406.8,,22012100.0,2021
+102817,0500002000,emerson college,219 Tremont St,02116,219 Tremont St,2116.0,30822.0,Performing Arts,Performing Arts,121.1,3733082.6,1546499.8,2158775.8,,,,,,,,,,27807.0,,22012100.0,2021
+102821,0500045000,emerson college a mass,98-06 Boylston Streeet,02116,98  106 Boylston St,2116.0,179336.0,Performing Arts,Performing Arts,71.5,12831244.2,,7076221.9,,,,5738972.5,,,,,,16049.4,,22012100.0,2021
+102836,1403336000,emrg realty llc,6-10 Frontenac St,02124,5  11 Livingstone St,2124.0,24000.0,Other,Other,67.3,1614509.4,1125900.0,488609.3,,,,,,,,,,,,,2021
+102848,2008908000,equity one llc mass llc,75 Spring St,02132,21 Springvale Av,2132.0,54846.0,Supermarket/Grocery Store,,312.3,17128226.2,8163199.7,8965026.6,,,,,,,,,,,,,2021
+"102856, 102857",,,201 And 221 S Huntington,02130,,,149366.0,Multifamily Housing,", ",38.2,5707004.0,2164140.1,3542863.8,,,,,,,,,,,,23730255.0,2021
+102871,2201764010,everett st crossing lp mass lps,63 Everett Square,02134,33 Everett St,2134.0,2480.0,Multifamily Housing,,111.6,276831.2,238238.0,38593.1,,,,,,,,,,,,5920788.0,2021
+102872,2201764010,everett st crossing lp mass lps,65-71 Hano St,02134,33 Everett St,2134.0,4416.0,Multifamily Housing,Multifamily Housing,104.0,459117.6,424221.0,34896.6,,,,,,,,,,,,5920788.0,2021
+102873,2201764010,everett st crossing lp mass lps,31-41 Everett St,02134,33 Everett St,2134.0,6732.0,Multifamily Housing,Multifamily Housing,55.1,370678.0,273999.0,96679.0,,,,,,,,,,,,5920788.0,2021
+102874,2201764010,everett st crossing lp mass lps,57 Everett St,02134,33 Everett St,2134.0,21300.0,Multifamily Housing,Multifamily Housing,54.8,1167996.4,862651.1,305345.4,,,,,,,,,,,,5920788.0,2021
+102895,0302814000,faros 20 ashburton llc,20 Ashburton Pl,02108,20 Ashburton Pl,2108.0,50962.0,Office,Office,42.3,2156063.0,,1061988.4,,,,1094074.5,,,,,,,,,2021
+102924,0504174000,fenway studios inc,30 Ipswich St,02215,30 Ipswich St,2215.0,66000.0,Multifamily Housing,,58.6,3870296.5,3522020.0,348276.5,,,,,,,,,,,,,2021
+102933,0303889000,fidelity real estate company llc,27 State St,02109,46  48 Devonshire St,2109.0,28821.0,Financial Office,"Financial Office, Retail Store",62.7,1806909.9,804972.0,1001937.9,,,,,,,,,,,,,2021
+102944,2201749000,fifteen north beacon st cond condo tr,15 N Beacon St,02134,15 N Beacon St,2134.0,228988.0,Multifamily Housing,Multifamily Housing,71.4,16345174.0,11787038.8,4558135.2,,,,,,,,,,,,,2021
+102963,0600053010,fifty-5 w broadway condo tr,45-55 W Broadway,02127,45  55 W Broadway,2127.0,41436.0,Multifamily Housing,,43.0,2886575.1,1844100.0,1042475.2,,,,,,,,,,,,24218447.0,2021
+102984,0502574000,fisher school,114-118 Beacon St,02116,118 Beacon St,2116.0,21600.0,College/University,College/University,15.3,331509.9,,331510.0,,,,,,,,,,,,,2021
+103014,0400945000,follen street condo tr,7 Follen St,02116,25  7 Follen St,2116.0,45215.0,Multifamily Housing,Multifamily Housing,48.5,2193641.3,993600.0,1200041.3,,,,,,,,,,,,,2021
+103015,0301633000,forecaster 121 condominium trust,121-127 Portland St,02114,121  127 Portland St,2114.0,103000.0,Multifamily Housing,"Multifamily Housing,Parking",40.8,4201075.8,2413000.2,1788075.7,,,,,,,,,,,,,2021
+103021,0304015000,forest milk llc,30-36 Batterymarch St,02110,32  34 Batterymarch St,2110.0,33250.0,Multifamily Housing,"Multifamily Housing, Office, Restaurant",79.1,2630559.3,1175000.0,1455559.2,,,,,,,,,,,,,2021
+103040,2202408000,fortium realty llc,15 Leicester St,02135,15 Leicester St,2135.0,24752.0,Multifamily Housing,Multifamily Housing,96.0,2376187.5,1320.0,47669.8,,,,,,,,,,,,,2021
+103070,0602842000,four 11 d st associates llc,405-409A D St,02127,405  409 D St,2127.0,237984.0,Multifamily Housing,Multifamily Housing,8.2,1952000.1,1952000.1,,,,,,,,,,,,,,2021
+103098,1500551012,fourteen-60 house lp mass lp,1460 Dorchester Av,02122,1460 Dorchester Av,2122.0,42985.0,Multifamily Housing,Multifamily Housing,35.0,1503172.3,877943.8,625228.5,,,,,,,,,,,,,2021
+103120,0801385002,franklin preservation,11 E Newton St,02118,11 E Newton St,2118.0,193816.0,Multifamily Housing,,64.1,12416413.7,9961516.6,2454897.2,,,,,,,,,,,,,2021
+103129,0603422000,g l i operating co del cp,571-573 E First St,02127,571  591 E First St,2127.0,40687.0,"Repair Services (Vehicle, Shoe, Locksmith, etc)","Repair Services (Vehicle, Shoe, Locksmith, etc)",152.5,6205492.9,4901999.8,1303493.2,,,,,,,,,,,,,2021
+103147,0401011000,garrison condo tr,8-16 Garrison St,02116,8  16 Garrison St,2116.0,50075.0,Multifamily Housing,Multifamily Housing,81.4,4078465.8,3447000.1,631465.7,,,,,,,,,,,,,2021
+103161,2101986000,gauthier arthur trsts,41-67 Colborne Rd,02135,41  67 Colborne Rd,2215.0,104120.0,Multifamily Housing,,35.4,3686677.3,22700.0,1161526.7,,,,,,,,,,,,,2021
+103165,0801027000,gbfb realty corporation,70 S Bay Ave,02118,70 S Bay Av,2118.0,117244.0,Distribution Center,"Distribution Center,Parking,Refrigerated Warehouse",78.7,9221895.9,3430093.4,5791801.8,,,,,,,,,,,,,2021
+103309,0800748000,gh roxbury realty llc a mass llc,3-7 George St,02119,Eustis St,2119.0,34000.0,Retail Store,Retail Store,39.6,1344889.8,957119.3,387770.4,,,,,,,,,,,,,2021
+103310,0800783000,gh roxbury realty llc a mass llc,64 George St,02119,Howard St,2119.0,34616.0,Non-Refrigerated Warehouse,,23.9,828500.5,763025.8,65474.7,,,,,,,,,,,,,2021
+103336,0401484000,gp-huntington limited ptnr,261-289 Huntington Ave,02115,263  279 Huntington Av,2115.0,87751.0,Office,"Office, Restaurant, Retail Store",105.9,9296200.5,4513075.0,4783125.8,,,,,,,,,,,,,2021
+103340,2005234000,gr-conway court limited,3 Conway St,02131,1  3 Conway St,2131.0,25940.0,Multifamily Housing,,55.6,1441005.0,1067711.8,373293.3,,,,,,,,,,,,,2021
+103360,0800841000,green boston operations llc,101 Gerard St,02119,47 Kemble St,2119.0,30675.0,Manufacturing/Industrial Plant,,71.0,2176798.3,,2176798.3,,,,,,,,,,,,,2021
+103391,2101914000,hajjar anne t ts,96 Washington St,02135,96 Washington St,2135.0,30348.0,Multifamily Housing,,64.0,1941105.9,1556764.5,384341.3,,,,,,,,,,,,,2021
+103392,2100015000,hajjar charles c ts,94 Queensberry St,02215,94 Queensberry St,2215.0,21310.0,Multifamily Housing,,76.3,1626838.7,1449500.0,177338.7,,,,,,,,,,,,,2021
+103663,0503380000,hexagon llc,217 Commonwealth Ave,02116,217 Commonwealth Av,2116.0,55000.0,Other - Lodging/Residential,Other - Lodging/Residential,114.4,6292882.1,3385300.3,2907581.9,,,,,,,,,,,,,2021
+103757,2101785000,hillcrest condo tr,1504 Commonwealth Ave,02135,1504  1494 Commonwealth Av,2135.0,28466.0,Multifamily Housing,,80.4,2289295.1,710900.0,321601.5,,,,,,1256793.6,,,,,,,2021
+103761,2201894000,hitchborn partners llc,50 Hichborn St,02135,46 Hichborn St,2135.0,49679.0,Multifamily Housing,,29.9,1487701.3,558600.0,929101.2,,,,,,,,,,,,,2021
+103800,1101160000,horizons watermark llc,1785 Columbus Ave,02119,Dimock St,2119.0,133223.0,Office,,38.5,5131758.1,4300.0,5127458.1,,,,,,,,,,,,,2021
+103837,2006994000,hv 91 llc,223-233 Independence Dr,02132,201  259 Independence Dr,2132.0,236023.0,Multifamily Housing,"Multifamily Housing,Parking",80.2,18927280.1,16650401.3,2276878.8,,,,,,,,,,,,,2021
+103870,0401087000,iconic copley plaza hotel  llc,138-148 Saint James Ave,02116,205 Dartmouth St,2116.0,339321.0,Hotel,Hotel,110.6,37522109.9,23137501.6,14384609.9,,,,,,,,,,,,,2021
+103937,2100896000,jo-ed realty trust,149-175 Harvard Ave,02134,149  175 Harvard Av,2134.0,54302.0,Other,,58.1,3155459.9,2089800.1,1065659.7,,,,,,,,,,,,,2021
+104005,2102111000,kilsyth village llc,100 Kilsyth Rd,02135,100 Kilsyth Rd,2135.0,17520.0,Multifamily Housing,"Multifamily Housing,Parking",70.7,1238032.4,1023015.0,215017.4,,,,,,,,,,,,,2021
+104029,2102168001,kre-bsl husky chestnut park llc,50 Sutherland Rd,02135,50 Sutherland Rd,2135.0,82360.0,Senior Living Community,"Parking,Senior Living Community",85.2,7013567.4,4326267.7,2687299.7,,,,,,,,,,,,,2021
+104034,0504244000,l m i realty corp,25-29A Queensberry St,02215,29 A25 Queensberry St,2215.0,38220.0,Multifamily Housing,Multifamily Housing,68.7,2627522.0,2248500.0,379022.0,,,,,,,,,,,,,2021
+104040,0304959000,ladies garm wrkrs center inc,27-35 Harrison Ave,02111,35  27 Harrison Av,2111.0,67500.0,Office,,71.8,4847503.6,,1665775.9,,,,,,,,,,,,,2021
+104042,0503585000,lafayette condominium tr,333 Commonwealth Ave,02115,333 Commonwealth Av,2115.0,42864.0,Multifamily Housing,,27.4,1175051.9,,1175051.9,,,,,,,,,,,,,2021
+104077,0602674245,legal seafoods inc - sub lessee,1 Seafood Wy,02210,1 Seafood Wy,2210.0,75000.0,Office,,144.7,10851350.5,6202528.8,4648822.7,,,,,,,,,,,,,2021
+104078,1806596000,legion arms condo tr,590-594 American Legion Hwy,02131,596  590 American Legion Hw,2131.0,18556.0,Multifamily Housing,Multifamily Housing,16.3,301962.0,,301962.0,,,,,,,,,,,,,2021
+104079,1806596000,legion arms condo tr,594 American Legion Hwy,02131,596  590 American Legion Hw,2131.0,13942.0,Multifamily Housing,Multifamily Housing,10.5,145989.2,,145989.2,,,,,,,,,,,,,2021
+104091,0401067010,lho backstreets lessee llc,10 Huntington Ave,02116,10 Huntington Av,2116.0,896062.0,Hotel,,65.7,58862712.2,14775980.4,24469007.9,,,18353002.5,1264721.8,,,,,,,,,2021
+104106,0300028000,lindsay place condo tr,11-17 Bowdoin St,02114,11  27 Bowdoin St,2114.0,51000.0,Multifamily Housing,Multifamily Housing,55.7,2841025.6,2238118.4,602907.2,,,,,,,,,,,,,2021
+104111,2100792000,lmi realty corporation,56 Brighton Ave,02134,56 Brighton Av,2134.0,21235.0,Multifamily Housing,Multifamily Housing,18.5,393639.1,47938.7,345700.4,,,,,,,,,,,,,2021
+104122,2101689000,longfellow heights condo tr,12 Bellvista Rd,02134,22 A12 Bellvista Rd,2134.0,40000.0,Multifamily Housing,,39.0,1559248.2,544300.0,198291.8,,,,,,816656.4,,,,,,,2021
+104127,2004863000,longfellow non profit,885 South St,02131,885 South St,2131.0,40680.0,Multifamily Housing,Multifamily Housing,76.0,3089840.2,2165515.8,924324.4,,,,,,,,,,,,,2021
+104154,1600250000,madison partners llc mass llc,705-715 William T Morrissey Blvd,02122,711 Wm T Morrissey Bl,2122.0,21293.0,Convenience Store without Gas Station,"Convenience Store without Gas Station, Parking",92.0,1959940.6,436190.7,1523750.1,,,,,,,,,,,,,2021
+104161,1809791000,maguire philip,4-8 Wolcott St,02136,8  4 Wolcott St,2136.0,20650.0,"Repair Services (Vehicle, Shoe, Locksmith, etc)","Repair Services (Vehicle, Shoe, Locksmith, etc)",11.8,243480.3,,243480.3,,,,,,,,,,,,,2021
+104185,0903557000,marcus garvey associates lps,42 John Eliot Square,02119,Norfolk St,2119.0,144181.0,Multifamily Housing,,70.0,10088914.1,7254245.0,2834669.1,,,,,,,,,,,,,2021
+104188,2202200000,market court condo tr,238-242 Market St,02135,1  7 Cypress Rd,2135.0,22909.0,Multifamily Housing,,29.7,680226.6,,680226.6,,,,,,,,,,,,,2021
+104189,2202200000,market court condo tr,4 Cypress Rd,02135,1  7 Cypress Rd,2135.0,20782.0,Multifamily Housing,,32.1,666459.1,,666459.1,,,,,,,,,,,,,2021
+104227,0500812001,mass convention center auth,1A Charles St,02116,Charles St,2116.0,350000.0,Parking,,23.4,8198808.1,,8198807.4,,,,,,,,,,,,,2021
+104231,0602798010,mass convention center auth,413-415 Summer St,02210,Summer St,2210.0,1010044.0,Convention Center,,81.3,82076366.1,33654883.7,48421466.2,,,,,,,,,,,,,2021
+104263,0401039000,massachusetts convention,900 Boylston St,02116,900 Boylston St,2116.0,763200.0,Convention Center,,83.3,63569858.9,342936.3,32917635.1,,,,30309287.2,,,,,,,,,2021
+104330,2101830005,matov alex,1505 Commonwealth Ave,02135,1505 Commonwealth Av,2135.0,63504.0,Multifamily Housing,"Multifamily Housing,Parking",58.5,3714701.3,477269.6,3237431.8,,,,,,,,,,,,,2021
+104383,0502295000,melville gartside llc mass llc,84 Beacon St,02108,83  84 Beacon St,2108.0,20625.0,Office,"Office,Restaurant,Single Family Home,Social/Meeting Hall",178.9,3689187.9,1739490.9,1949697.0,,,,,,,,,,,,,2021
+104409,0400905000,mercury huntington corp ts,120 Huntington Ave,02116,120 Huntington Av,2116.0,276439.0,Hotel,,85.5,23640591.6,15502751.4,8137841.8,,,,,,,,,,,,,2021
+104423,0304832020,millenium place north,1 Avery St #Ph,02111,1 Avery St,2111.0,362409.0,Multifamily Housing,"Multifamily Housing,Restaurant",57.1,20676048.2,12219713.4,8456334.9,,,,,,,,,,0.0,,,2021
+104424,0304870020,millennium place south,2 Avery St,02111,2  16 Avery St,2111.0,895973.0,Multifamily Housing,"Fitness Center/Health Club/Gym,Hotel,Movie Theater,Multifamily Housing,Parking",133.7,119761837.1,64500155.4,55261673.2,,,,,,,,,,,,,2021
+104425,0304590010,millennium tower trust,1 Franklin St,02110,1 Franklin St,2110.0,758542.0,Multifamily Housing,"Multifamily Housing, Retail Store",65.3,49503863.7,15310172.9,34193699.2,,,,,,,,,,,,,2021
+104431,2100166000,miner street llc mass llc,23 Miner St,02215,9 Miner St,2215.0,46250.0,Multifamily Housing,"Multifamily Housing, Parking",72.8,3365304.7,2373047.3,992257.4,,,,,,,,,,,,,2021
+104485,2101707100,monarch condo trust,300 Allston St,02135,300 Allston St,2135.0,71284.0,Multifamily Housing,Multifamily Housing,58.6,4173820.6,1959094.8,2214725.8,,,,,,,,,,,,,2021
+104493,1303404000,morrissey property owner llc,2 - 50 Wm T Morrissey Bl,02125,40 Wm T Morrissey Bl,2125.0,370000.0,Financial Office,,98.0,36269141.1,9537173.3,26731969.1,,,,,,,,,,,,,2021
+104494,0401452000,morville house apartments,100-112 Norway St,02115,112  100 Norway St,2115.0,93150.0,Multifamily Housing,Multifamily Housing,73.3,6825715.3,4255066.6,2570648.6,,,,,,,,,,,,,2021
+104537,1603820000,nahant condominium tr,24 Nahant Ave,02124,24 Nahant Av,2122.0,16300.0,Multifamily Housing,,3.2,51494.9,,51494.9,,,,,,,,,,,,,2021
+104548,2009219000,nd oak row llc,1235 Vfw Pkwy,02132,165 Gardner St,2132.0,104588.0,Multifamily Housing,,41.3,4316594.9,2183299.9,2133295.0,,,,,,,,,,,,,2021
+104558,0504197000,nesv lansdowne street llc,49-65 Lansdowne St,02215,49  67 Lansdowne St,2215.0,60000.0,Parking,Parking,5.0,201297.8,,201297.8,,,,,,,,,,,,,2021
+104597,0302990000,new england aquarium,95 East India Row,02110,248 Atlantic Av,2114.0,31638.0,Movie Theater,Movie Theater,106.6,3374157.4,,2259126.1,,,,1115031.3,,,,,,,,,2021
+104598,1001212000,new england baptist hosp,125 Parker Hill Ave,02120,91  109 Parker Hill Av,2120.0,418000.0,Hospital (General Medical & Surgical),,435.8,182183316.1,131550789.8,50632510.5,,,,,,,,,,,,,2021
+104630,0504192000,new roulet limited partnersh,145-151 Ipswich St,02215,7  11 Lansdowne St,2215.0,100038.0,Other - Recreation,"Bar/Nightclub, Bowling Alley, Office, Other - Recreation, Restaurant",111.3,11137495.5,3617000.5,7520495.0,,,,,,,,,,,,,2021
+104631,0503053000,newbury prime realty corp,338 Newbury St,01938,338 Newbury St,2115.0,20000.0,Other - Mall,"Other - Mall,Other - Services,Restaurant",99.1,1981550.0,1112500.0,869050.0,,,,,,,,,,,,,2021
+104671,0500135002,nkotb owner llc,200 Stuart St,02116,200 Stuart St,2116.0,312000.0,Hotel,,71.8,22397881.7,1623768.8,14376547.3,,,,6397567.2,,,,,,,,,2021
+104696,1503095002,north dorchester llc a mass llc,35 Freeport Way,02125,35 Freeport Wy,2125.0,30000.0,"Repair Services (Vehicle, Shoe, Locksmith, etc)","Repair Services (Vehicle, Shoe, Locksmith, etc)",89.6,2689317.2,1902800.0,786517.2,,,,,,,,,,,,,2021
+104805,0702836000,o'connor senior housing llc,5 Major Michael J O'Connor Way,02127,5 Oconnor Wy,2127.0,40818.0,Multifamily Housing,Multifamily Housing,38.9,1589580.7,890241.5,699339.1,,,,,,,,,,,,,2021
+104820,0504203000,olde town team realty trust,24 Jersey St,02215,24 Jersey St,2215.0,610000.0,Stadium (Open),Stadium (Open),104.8,63902937.5,24024414.6,39878534.8,,,,,,,,,,,,,2021
+104862,0401707000,one 14 fenway inc the,114 Fenway,02115,114 Fenway St,2115.0,29400.0,Multifamily Housing,,57.4,1686095.4,1399600.0,286495.4,,,,,,,,,,,,,2021
+104908,0402006000,one hundred riverway condo tr,100-110 Riverway,02215,110  100 Riverway St,2215.0,33755.0,Multifamily Housing,,21.1,711758.2,303700.0,408058.1,,,,,,,,,,,,,2021
+104918,0504190000,one sixty ipswich inc,160-170 Ipswich St,02215,170  160 Ipswich St,2215.0,129800.0,Parking,Parking,0.7,91168.6,,91168.6,,,,,,,,,,,,,2021
+104924,2100033000,one-10 peterborough lp mass lps,110 Peterborough St,02215,110 Peterborough St,2215.0,39934.0,Multifamily Housing,,55.2,2205364.0,1496660.9,708703.1,,,,,,,,,,,,,2021
+104955,2010343000,ormiston mary trsts,5-17 Cass St,02132,5  17 Cass St,2132.0,56736.0,Multifamily Housing,,59.9,3397340.5,,664347.1,,,,,,,,,,,,,2021
+104966,0304157000,pacific dolphin corp,250 Franklin St,02110,27  47 Oliver St,2110.0,223546.0,Hotel,Hotel,90.7,20276072.8,6076548.6,14199522.5,,,,,,,,,,,,,2021
+104981,0202125000,paradigm direct roland llc,56 Roland St,02129,56 Roland St,2129.0,119679.0,Office,"Data Center,Laboratory,Office,Parking,Veterinary Office",75.9,9081009.5,1465200.1,7615809.2,,,,,,,,,,,,,2021
+104989,1905052030,parcel u phase a llc,143  171 Hyde Park Av,02130,143  171 Hyde Park Av,2130.0,37200.0,Multifamily Housing,,32.7,1216827.5,287600.0,929227.5,,,,,,,,,,,,,2021
+104990,1905052040,parcel u phase b llc,119  141 Hyde Park Av,02130,119  141 Hyde Park Av,2130.0,37200.0,Multifamily Housing,,29.6,1101843.2,828600.0,,,,,,,,,,,,,,2021
+105014,0304680000,park street church,3 Park St,02108,3 Park St,2108.0,34849.0,Worship Facility,,39.1,1361317.1,601286.4,760030.8,,,,,,,,,,,,,2021
+105015,0304677000,park street cong society,119 Tremont St,02108,119 Tremont St,2108.0,23180.0,Worship Facility,,127.2,2948089.1,2097936.4,850152.7,,,,,,,,,,,,,2021
+105027,2100465000,partners properties llc mass llc,16-22 Linden St,02134,20  14 Linden St,2134.0,71000.0,Office,"Office,Parking",41.8,2965049.9,1442596.7,1522453.2,,,,,,,,,,,,,2021
+105050,0503817000,petruzziello gina l,371 Commonwealth Ave,02115,61  59 Massachusetts Av,2115.0,28809.0,Multifamily Housing,,126.1,3633241.0,694365.6,1281615.4,,,,,,1657260.0,,,,,,,2021
+105051,1602418001,pf redfield llc mass llc,50 Redfield St,02122,50 Redfield St,2122.0,42669.0,Office,"Office,Parking",29.3,1251407.4,69900.0,1181507.4,,,,,,,,,,,,,2021
+105071,1102897010,pine street inn inc,3368 Washington St,02130,3368 Washington St,2130.0,37718.0,Office,"Office, Self-Storage Facility",38.4,1449011.3,1155561.7,293449.6,,,,,,,,,,,,,2021
+105073,2100040000,pinewood apartments llc,115-125 Peterborough St,02215,115  125 Peterborough St,2215.0,62536.0,Multifamily Housing,,67.2,4199579.7,3694300.0,505279.7,,,,,,,,,,,,,2021
+105078,0202751000,pizzuti donato,50 Terminal St,02129,30  50 Terminal St,2129.0,219988.0,Non-Refrigerated Warehouse,"Data Center,Manufacturing/Industrial Plant,Non-Refrigerated Warehouse,Office,Parking,Personal Services (Health/Beauty, Dry Cleaning, etc)",45.5,10000940.0,4169299.7,5831640.3,,,,,,,,,,,,,2021
+"105083, 105084",,,1193-1197 Commonwealth Ave,02134,,,43040.0,Multifamily Housing,", ",55.5,2389854.7,2046999.9,342854.8,,,,,,,,,,,,23645413.0,2021
+105127,1302364019,pob cc 35-55 morrissey llc,35-45 Morrissey Blvd,02125,35  45 Wm T Morrissey Bl,2124.0,61800.0,Supermarket/Grocery Store,,225.0,13903569.7,4715899.8,9187669.8,,,,,,,,,,,,,2021
+105128,1302364021,pob cc 35-55 morrissey llc,55 William T Morrissey Blvd,02124,55 Wm T Morrissey Bl,2124.0,40000.0,Other,Other,144.2,5766462.3,755061.6,5011402.3,,,,,,,,,,,,,2021
+105216,1901355000,protestant episcopal church,1 Roanoke Ave,02130,Roanoke Av,2130.0,25131.0,Worship Facility,,27.9,702111.0,613178.1,88932.9,,,,,,,,,,,,,2021
+105227,0504283000,queensberry court condo tr,62 Queensberry St,02215,62  66 Queensberry St,2215.0,59692.0,Multifamily Housing,,70.3,4194202.9,3573399.7,620803.2,,,,,,,,,,,,,2021
+105233,0201844000,rad realty corporation,96-104 Arlington Ave,02129,96  104 Arlington Av,2129.0,28500.0,Distribution Center,"Distribution Center,Parking",68.8,1961144.2,1512436.4,448707.7,,,,,,,,,,,,,2021
+105250,0300470050,rar2 50 staniford llc,50  60 Staniford St,02114,50  60 Staniford St,2114.0,220932.0,Medical Office,Medical Office,69.5,15357017.9,279400.0,15077617.8,,,,,,,,,,,,,2021
+105255,1500320010,rd realty group llc,79-85 Freeport St,02122,79  85 Freeport St,2122.0,5000.0,Police Station,Other,25.3,126663.4,535480.6,126663.4,,,,,,,,,,,,,2021
+105258,0203648000,recp v 40 warren owner llc,34-42 Warren St,02129,42  34 Warren St,2129.0,44712.0,Office,,18.2,815863.1,,815863.1,,,,,,,,,,,,,2021
+105259,2201872000,red line limit llc,38-42 Everett St,02135,42  38 Everett St,2135.0,31128.0,Office,,73.6,2290690.6,,2290690.6,,,,,,,,,,,,,2021
+105268,2101829000,regency building co lps,1455 Commonwealth Ave,02135,1455 Commonwealth Av,2135.0,102948.0,Multifamily Housing,"Multifamily Housing, Parking",56.1,5778617.7,5361900.2,416717.5,,,,,,,,,,,,,2021
+105285,2102474000,reservoir tower associates  lp,1925 Commonwealth Ave,02135,271 Chestnut Hill Av,2135.0,225370.0,Multifamily Housing,Multifamily Housing,51.9,11692286.0,7852687.3,3839598.7,,,,,,,,,,,,,2021
+105287,2006248010,residences at 1789 centre condominium trust,1789 Centre St,02132,1789 Centre St,2132.0,22832.0,Multifamily Housing,"Multifamily Housing, Office, Parking",23.5,537168.2,,537168.2,,,,,,,,,,,,,2021
+105296,0600022010,residences fifty w broadway mass llc,48-52 W Broadway,02127,48  78 W Broadway,2127.0,200755.0,Multifamily Housing,Multifamily Housing,33.8,6784748.0,3123709.4,3661038.5,,,,,,,,,,,,,2021
+105298,0500075030,residential condominium,100 Stuart St,02116,110 Stuart St,2116.0,361858.0,Hotel,,70.2,25397891.9,1598815.5,11674471.9,,,,12124604.8,,,,,,,,,2021
+105346,0900939000,robert l fortes house lp,541-549 Shawmut Ave,02118,541  549 Shawmut Av,2118.0,39280.0,Multifamily Housing,Multifamily Housing,50.4,1978887.9,1224303.2,754584.6,,,,,,,,,,,,,2021
+105362,1302651000,roman cath arch boston,100 Savin Hill Ave,02125,100 Savin Hill Av,2125.0,61152.0,K-12 School,"K-12 School,Parking",31.5,1925805.1,1707996.9,217808.3,,,,,,,,,,,,,2021
+105367,1703589000,roman cath arch boston,2223 Dorchester Ave,02124,2214  2224 Dorchester Av,2124.0,81888.0,K-12 School,,13.0,1060614.4,595900.0,464714.4,,,,,,,,,,,,,2021
+105373,1704221000,roman cath arch boston,2215 Dorchester Ave,02124,2221 Dorchester Av,2124.0,36834.0,Worship Facility,Worship Facility,154.7,5696900.7,5482900.0,214000.6,,,,,,,,,,,,,2021
+105389,1809140010,roman cath arch of bos,1286 Hyde Park Ave,02136,1286 Hyde Park Av,2136.0,40295.0,K-12 School,"K-12 School,Parking",67.8,2733456.0,2368596.6,364859.5,,,,,,,,,,,,,2021
+105392,2201177000,roman cath arch of bos,57-59 Holton St,02135,37  57 Holton St,2135.0,52850.0,K-12 School,"K-12 School,Worship Facility",59.5,3144750.4,1379900.0,484803.9,,,,,,1280046.6,,,,,,,2021
+105395,0305368000,roman cath arch of bos church,125 Harrison Ave,02111,125 Harrison Av,2111.0,28346.0,Worship Facility,Worship Facility,25.9,734239.3,,38099.9,,,,,,,,,,,,,2021
+105399,0602109000,roman cath arch of bostn,615 E Fourth St,02127,I St,2127.0,63078.0,Worship Facility,,25.3,1594126.4,1491701.6,102424.8,,,,,,,,,,,,,2021
+105400,0603644000,roman cath arch of bostn,O St,02127,O St,2127.0,22835.0,Other - Education,,6.1,139808.3,139033.8,774.5,,,,,,,,,,,,,2021
+105401,0603645000,roman cath arch of bostn,866 East Broadway,02127,E Broadway,2127.0,54668.0,K-12 School,,6.6,359073.2,357200.0,1873.2,,,,,,,,,,,,,2021
+"105402, 105403, 105404",,,96 N St,02127,,,43185.0,Other,", ",23.7,1023878.9,931400.0,92478.8,,,,,,,,,,,,25124602.0,2021
+105403,0604254000,roman cath arch of bostn,96 N St,02127,96 N St,2127.0,14480.0,Pre-school/Daycare,,0.3,5011.3,3800.0,1211.3,,,,,,,,,,,,25124602.0,2021
+105404,0604254000,roman cath arch of bostn,841 E Broadway,02127,96 N St,2127.0,8225.0,Office,,63.9,525461.2,444300.0,81161.2,,,,,,,,,,,,25124602.0,2021
+105519,2101545000,royce condominium tr,5-7 Royce Rd,02134,5 Royce Rd,2134.0,26544.0,Multifamily Housing,Multifamily Housing,62.6,1661790.3,1263623.5,398166.8,,,,,,,,,,,,,2021
+105521,0703892100,rpp commerce llc mass llc,600 Columbia Rd,02125,600 Columbia Rd,2125.0,29712.0,Multifamily Housing,,14.8,438554.6,0.0,438554.6,,,,,,,,,,,,,2021
+105580,0202572000,rutherford landing llc,463 Rutherford Ave,02129,463  471 Rutherford Av,2129.0,18900.0,Multifamily Housing,Multifamily Housing,28.1,531660.1,230500.0,301160.2,,,,,,,,,,,,,2021
+105592,1002474000,sabema llc,31 Heath St,02130,31 Heath St,2130.0,37720.0,Vocational School,Vocational School,34.2,1291576.9,583245.6,708331.2,,,,,,,,,,,,,2021
+105596,0304878000,saint francis house inc,39 Boylston St,02116,39 Boylston St,2116.0,75319.0,Multifamily Housing,"Multifamily Housing,Office,Other,Restaurant",94.3,7098905.3,4775003.2,2323902.3,,,,,,,,,,,,,2021
+105605,2100469000,sanieoff sieon,1027-1033 Commonwealth Ave,02134,1027  1033 Commonwealth Av,2134.0,43929.0,Multifamily Housing,"Multifamily Housing, Restaurant",75.5,3317969.9,1732618.2,1585351.7,,,,,,,,,,,,,2021
+105606,2100471000,sanieoff sieon,1039-1045 Commonwealth Ave,02134,1039  1045 Commonwealth Av,2134.0,36796.0,Multifamily Housing,"Multifamily Housing, Retail Store",47.4,1744053.3,1258866.9,485186.4,,,,,,,,,,,,,2021
+105611,0501199000,saunders donald l trsts etal,29-31 Newbury St,02116,29  31 Newbury St,2116.0,25597.0,Office,"Office,Retail Store",53.4,1366236.6,895500.0,470736.6,,,,,,,,,,,,,2021
+105613,0501135000,saunstar land co llc,130 Columbus Ave,02116,130 Columbus Av,2116.0,63546.0,Other - Entertainment/Public Assembly,Other - Entertainment/Public Assembly,59.2,3762995.3,2041300.2,1721695.2,,,,,,,,,,,,,2021
+105629,0601162000,sblca realty corp,368-372 W Broadway,02127,368  372 W Broadway,2127.0,22992.0,Social/Meeting Hall,"Medical Office,Social/Meeting Hall",52.7,1211452.2,589853.8,621598.5,,,,,,,,,,,,,2021
+105645,1901395000,seaverns brown realty trust,9-11 Seaverns Ave,02130,9  11 Seaverns Av,2130.0,20336.0,Multifamily Housing,Multifamily Housing,94.1,1914292.9,1449500.0,464792.9,,,,,,,,,,,,,2021
+105656,2102177000,selkirk village llc,56-58 Selkirk Rd,02135,56  58 Selkirk Rd,2135.0,21008.0,Multifamily Housing,Multifamily Housing,52.6,1105051.7,866918.0,238133.7,,,,,,,,,,,,,2021
+105659,0306624010,sepia condominium trust,30  36 Traveler St,02118,30  36 Traveler St,2118.0,121200.0,Multifamily Housing,"Multifamily Housing, Outpatient Rehabilitation/Physical Therapy, Personal Services (Health/Beauty, Dry Cleaning, etc), Restaurant",46.4,5624079.1,2119231.9,3504847.3,,,,,,,,,,,,,2021
+105677,0503207200,seven 55 boylston llc,755 Boylston St,02116,755 Boylston St,2116.0,54384.0,Multifamily Housing,,42.8,2330158.1,1126500.0,1203658.1,,,,,,,,,,,,,2021
+105693,0501048000,seventy 5 clarendon street,75 Clarendon St,02116,75 Clarendon St,2116.0,46100.0,Multifamily Housing,Multifamily Housing,46.3,2134345.2,608362.3,1525982.9,,,,,,,,,,,,,2021
+105772,0306731010,siena ink block llc,40 Traveler St,02118,40 Traveler St,2118.0,105793.0,Multifamily Housing,Multifamily Housing,46.9,4963870.7,2197161.7,2766708.9,,,,,,,,,,,,,2021
+105798,0106057000,sitt eddie trsts,16-30 Bennington St,02128,16  30 Bennington St,2128.0,11298.0,Other,,185.9,2100613.9,1308600.0,792013.9,,,,,,,,,,,,,2021
+105820,0301609000,slesar joseph ts,110-118 Canal St,02114,118  112 Canal St,2114.0,56840.0,Office,"Office,Parking",48.4,2748297.2,643100.0,2105197.2,,,,,,,,,,,,,2021
+105823,0100549001,slumber time llc,225 William F Mcclellan Hwy,02128,225 Wm F Mcclellan Hw,2128.0,148988.0,Hotel,"Hotel, Swimming Pool",102.3,15248693.7,5528315.2,9720378.6,,,,,,,,,,,,,2021
+105831,0801946000,smookler deborah c,2000 Washington St,02119,2000 Washington St,2119.0,18000.0,Parking,,195.3,3514654.1,0.0,1063360.0,,,,,,,,,,,,,2021
+105878,0202156001,spice street llc,40-46 Cambridge St,02129,2  12 Spice St,2129.0,27858.0,Office,"Multifamily Housing,Office",24.8,691646.7,422300.0,269346.7,,,,,,,,,,,,,2021
+105894,2201904000,ss brighton ma llc,145 N Beacon St,02135,145 N Beacon St,2135.0,128855.0,Self-Storage Facility,Self-Storage Facility,12.4,1602683.3,603699.3,998984.1,,,,,,,,,,,,,2021
+105901,0504281010,st cecilias house inc,108 Kilmarnock St,02215,108 Kilmarnock St,2215.0,77940.0,Multifamily Housing,Multifamily Housing,62.2,4844324.2,3112151.9,1732172.1,,,,,,,,,,,,,2021
+105947,1703663030,standish village landlord llc,1190 Adams St,02124,1190 Adams St,2124.0,56131.0,Senior Living Community,,127.9,7180874.9,4824556.9,2356318.0,,,,,,,,,,,,,2021
+105950,0203511400,starboard leasehold,45 First St,02129,45 First St,2129.0,47454.0,Multifamily Housing,Multifamily Housing,39.7,1883852.2,1064300.0,819552.2,,,,,,,,,,,,,2021
+105956,0303748000,steamboat realty llc,92 State St,02109,92  90 State St,2109.0,26424.0,Office,Office,101.0,2669268.3,1516200.0,1153068.3,,,,,,,,,,,,,2021
+"105970, 105971, 105972, 105973, 105974",,stoney end condo tr,53-55 Chandler St & 78-84 Berkley St ,02116,,,34350.0,Multifamily Housing,", ",25.1,861144.4,,861144.4,,,,,,,,,,,,24240560.0,2021
+105974,0501007000,stoney end condo tr,55 Chandler St,02116,84  76 Berkeley St,2116.0,5610.0,Multifamily Housing,,25.1,861144.4,,861144.4,,,,,,,,,,,,24240560.0,2021
+105977,0304785000,stp llc mass llc,60-70 Temple Pl,02111,477  481 Washington St,2111.0,57306.0,Office,"Office, Retail Store",43.3,2478547.8,396600.0,2081947.8,,,,,,,,,,,,,2021
+106007,2005788000,sumark associates llc,1910-1920 Centre St,02132,1910  1920 Centre St,2132.0,25350.0,Other,"Bank Branch, Office, Other, Outpatient Rehabilitation/Physical Therapy, Parking",31.0,786079.8,302685.0,483394.8,,,,,,,,,,,,22487033.0,2021
+106043,0602646010,t-c fort point creative,374-382 Congress St,02210,374 Congress St,2210.0,98010.0,Office,"Office, Restaurant",125.3,12279618.0,7762359.1,4517259.4,,,,,,,,,,,,,2021
+106044,0602660010,t-c fort point creative,33-41 Farnsworth St,02210,33  41 Farnsworth St,2210.0,94381.0,Office,Office,38.7,3656146.9,2330506.4,1325640.5,,,,,,,,,,,,,2021
+106045,0602662015,t-c fort point creative,44-54 Farnsworth St,02210,44 Farnsworth St,2210.0,93824.0,Office,Office,29.1,2727053.8,,1964506.8,,,,,,,,,,,,,2021
+106046,0602663010,t-c fort point creative,34-36 Farnsworth St,02210,34 Farnsworth St,2210.0,25000.0,Office,Office,92.0,2300259.8,1024226.4,1276033.4,,,,,,,,,,,,,2021
+106047,0602667000,t-c fort point creative,332-334 Congress St,02210,332 Congress St,2210.0,36192.0,Office,"Office, Restaurant",25.7,931013.7,21900.0,909113.8,,,,,,,,,,,,,2021
+106048,0602702000,t-c fort point creative,259-267 Summer St,02210,10 Melcher St,2210.0,64564.0,Office,"Office, Retail Store",78.3,5058543.8,1812261.3,3246282.6,,,,,,,,,,,,,2021
+106068,2200562002,tdc 1234 owner llc,1234 Soldiers Field Rd,02134,1234 Soldiers Field Rd,2134.0,58550.0,Hotel,"Hotel,Parking",92.6,5423532.4,3780168.8,359031.1,,,,,,,,,,,,,2021
+106070,0503210000,tdc property boylston llc,761 Boylston St,02116,761 Boylston St,2116.0,41440.0,Retail Store,,336.2,13930270.3,7535500.0,6394770.4,,,,,,,,,,,,,2021
+106074,2102533000,temple bnai moshe,16 Sidlaw Rd,02135,16 Sidlaw Rd,2135.0,34425.0,Worship Facility,"Adult Education,Pre-school/Daycare,Worship Facility",43.0,1478748.9,1064651.5,414097.4,,,,,,,,,,,,,2021
+106092,0304669000,tga 70 federal street llc,70 Federal St,02110,70 Federal St,2110.0,71872.0,Office,Office,72.9,5239516.3,,2557751.2,,,,2681765.1,,,,,,,,,2021
+106105,0203506010,the parris landing cond trst,42 8Th St,02129,42 Eighth St,2129.0,600580.0,Multifamily Housing,,19.9,11930416.3,11930416.3,,,,,,,,,,,,,,2021
+106112,0302953018,the residences at interconti,500 Atlantic Av,02210,500 Atlantic Av,2210.0,697555.0,Hotel,,93.7,65339168.7,2573799.7,20706718.3,,,,42058650.9,,,,,,,,,2021
+106114,0600026000,the residences at twenty-six west broadway llc,26 W Broadway #1,02127,26 Hf26 W Broadway,2127.0,34000.0,Multifamily Housing,Multifamily Housing,84.2,2862564.8,1739296.8,1123267.9,,,,,,,,,,,,,2021
+106116,2202177000,the saybrook condominium trust,212-214 Market St,02135,214 Market St,2135.0,35000.0,Multifamily Housing,,37.1,1296827.3,587800.0,709027.2,,,,,,,,,,,,,2021
+106139,0602751300,thirty-5 channel ctr condo,35 Channel Center St,02210,35 Channel Center St,2210.0,72193.0,Multifamily Housing,Multifamily Housing,47.6,3436272.3,1445500.0,1990772.3,,,,,,,,,,,,,2021
+106175,0602687000,three- 81 congress st llc mass llc,381-389 Congress St,02127,381  389 Congress St,2127.0,44236.0,Multifamily Housing,"Multifamily Housing,Restaurant",82.8,3664059.8,1094800.0,2569259.9,,,,,,,,,,,,,2021
+106178,2101759000,three-30 summit av condo tr,330 Summit Ave,02135,330 Summit Av,2135.0,18240.0,Multifamily Housing,,38.8,707263.2,523800.0,183463.2,,,,,,,,,,,,,2021
+106247,0304390000,trea 99 high street llc,99 High St,02110,99 High St,2110.0,731205.0,Office,"Bank Branch, Office, Other - Restaurant/Bar, Parking",60.2,43992807.8,21800959.0,22191849.3,,,,,,,,,,,,,2021
+106249,0702737000,tregoning william l trsts,71 Von Hillern St,02125,71 Von Hillern St,2125.0,58591.0,Manufacturing/Industrial Plant,Manufacturing/Industrial Plant,62.5,3662949.7,1343300.0,1207134.9,,,,,,1112514.6,,,,,,,2021
+106260,0105402010,trinity east boston two lp mass lps,113 Sumner St,02128,115  123 Sumner St,2128.0,98784.0,Multifamily Housing,,57.0,5631662.9,4251710.2,1379952.7,,,,,,,,,,,,,2021
+106274,0401053010,trinity place condominium tr,1 Huntington Ave,02116,1 Huntington Av,2116.0,177636.0,Multifamily Housing,"Multifamily Housing,Other - Restaurant/Bar,Other - Services,Parking",114.8,20396195.4,2212805.8,8774957.7,,,,9408432.1,,,,,,0.0,,,2021
+106335,0501604000,tudor condominium trust,34Hf Beacon St,02108,34 Hf Beacon St,2108.0,45000.0,Multifamily Housing,Multifamily Housing,49.5,2229315.6,930165.9,1299149.7,,,,,,,,,,,,,2021
+106360,2000086000,twenty -24 corinth rlty llc,20-24 Corinth St,02131,20  24 Corinth St,2131.0,10960.0,Retail Store,,54.0,592163.1,155700.0,436463.0,,,,,,,,,,,,,2021
+106367,2100921000,twenty 8 quint av condo tr,28 Quint Ave,02134,28 Quint Av,2134.0,24830.0,Multifamily Housing,Multifamily Housing,94.7,2351838.1,2029939.7,321898.3,,,,,,,,,,,,,2021
+106373,0602751100,twenty-5 channel ctr condo,25 Channel Center St,02210,25 Channel Center St,2210.0,131888.0,Multifamily Housing,Multifamily Housing,43.8,5775033.3,2020772.2,3754261.1,,,,,,,,,,,,,2021
+106397,0602752000,two 49a st cooperative corp,6 Binford St,02210,6 Binford St,2210.0,79916.0,Multifamily Housing,Multifamily Housing,44.5,3552401.2,,895377.0,,,,,,2657024.1,,,,,,,2021
+106399,0103667000,two 66 border llc mass llc,266 Border St,02128,266  268 Border St,2128.0,34579.0,Manufacturing/Industrial Plant,,1.9,66759.2,0.0,66759.2,,,,,,,,,,,,,2021
+106418,0304023000,two sixty franklin inc,260 Franklin St,02109,260 Franklin St,2109.0,372562.0,Office,"Office, Parking",43.8,16313756.1,,16313754.7,,,,,,,,,,,,,2021
+106430,2200942000,u store it lp,130 Lincoln St,02135,130 Lincoln St,2135.0,51516.0,Self-Storage Facility,,34.8,1794006.2,1439529.1,354477.1,,,,,,,,,,,,,2021
+106444,0304684000,union club of boston inc,7-8 Park St,02108,8  7 Park St,2108.0,37470.0,Social/Meeting Hall,Social/Meeting Hall,62.5,2343309.1,342514.2,763213.9,,,,1237581.1,,,,,,,,,2021
+106526,0400600020,urban investment dev co le,128 Dartmouth St,02116,128 Dartmouth St,2116.0,241550.0,Parking,,6.8,1630720.3,,1630720.4,,,,,,,,,,,,,2021
+106528,0602754010,us vi tower point llc,27-43 Wormwood St,02127,27  43 Wormwood St,2127.0,156510.0,Office,"Data Center,Office,Parking",44.2,6917597.9,,6917598.0,,,,,,,,,,,,,2021
+106537,2101451000,value store it mahopac llc,1360 Commonwealth Ave,02134,1360 Commonwealth Av,2134.0,68296.0,Self-Storage Facility,Self-Storage Facility,7.5,513330.1,264993.5,248336.6,,,,,,,,,,,,,2021
+106540,2007833020,vch-sc llc,631A-639 Vfw Pkwy,02132,631 Vfw Pw,2132.0,70042.0,Strip Mall,"Medical Office, Parking, Strip Mall",93.0,6512151.3,553676.8,5958474.5,,,,,,,,,,,,,2021
+106589,2011737000,village grove condo assn inc,287-321 Grove St,02132,287  321 Grove St,2132.0,8700.0,Multifamily Housing,Multifamily Housing,22.1,191969.3,,191969.4,,,,,,,,,,,,,2021
+106590,2011737000,village grove condo assn inc,287 Grove St,02132,287  321 Grove St,2132.0,8700.0,Multifamily Housing,Multifamily Housing,30.1,261485.4,,261485.4,,,,,,,,,,,,,2021
+106591,2011737000,village grove condo assn inc,311 Grove St #13,02132,287  321 Grove St,2132.0,8700.0,Multifamily Housing,Multifamily Housing,26.2,228307.2,,228307.2,,,,,,,,,,,,,2021
+106618,0303515000,walsh james h iii ts,210-218 Commercial St,02109,210  218 Commercial St,2109.0,25900.0,Office,Office,42.4,1098100.3,352815.2,745284.9,,,,,,,,,,,,,2021
+106643,1806017110,washington beech,4560-4578 Washington St,02131,4560 Washington St,2131.0,97900.0,Multifamily Housing,,33.8,3311515.7,2012352.4,1299163.4,,,,,,,,,,,,,2021
+106672,2101724000,washington square condo tr,309-319 Allston St,02135,309  319 Allston St,2135.0,84131.0,Multifamily Housing,,69.0,5802581.8,63525.0,701684.6,,,,,,,,,,,,,2021
+106754,0306010010,wilkes passage lofts,1293-1317 Washington St,02118,1293  1317 Washington St,2118.0,268250.0,Multifamily Housing,"Multifamily Housing, Parking",49.0,13142652.7,7164339.9,5978311.9,,,,,,,,,,,,,2021
+106789,2101674000,york terrace condo tr,5 11 Vinal St,02135,5  11 Vinal St,2134.0,54464.0,Multifamily Housing,,47.7,2598070.8,1243300.0,267896.6,,,,,,,,,,,,,2021
+106807,1700075000,nor-al housing associates,18 Algonquin St,02124,18 Algonquin St,2124.0,53732.0,Multifamily Housing,Multifamily Housing,103.9,5584654.1,4267287.8,1317366.4,,,,,,,,,,,,,2021
+106822,2202645000,boston rehab assoc gp,181 Parsons St,02135,181 Parsons St,2135.0,14432.0,Multifamily Housing,,74.6,1075934.9,,221251.1,,,,,,854683.7,,,,,,,2021
+106829,0302700104,bulfinch wpb1 owner llc,110 Sudbury St,02114,110 Sudbury St,2114.0,120316.0,Multifamily Housing,Multifamily Housing,24.6,2959088.7,412374.2,2546714.4,,,,,,,,,,,,,2021
+106837,0300445010,dont look back llc (lessee),215 Charles St,02114,215 239 Charles St,2114.0,239000.0,Hotel,,190.4,45504836.4,31530518.1,13974316.9,,,,,,,,,,,,,2021
+106854,0702442000,city of boston,William J Day Blvd,02127,William J Day Blvd,2127.0,73035.0,Other - Recreation,Other - Recreation,13.4,975069.8,908797.9,66271.9,,,,,,,,,,,,,2021
+106884,0104164006,city of boston,143 Porter St,02128,Orleans St,2128.0,36753.0,Other - Recreation,Other - Recreation,18.2,735680.4,,500224.8,,,,,,235455.6,,,,,,4019903.0,2021
+106910,1600672000,city of boston,Bispham St,02122,Bispham St,2122.0,6562.0,Self-Storage Facility,"Office, Self-Storage Facility",84.3,553240.7,402429.0,150811.7,,,,,,,,,,,,4019948.0,2021
+106941,2203357000,city of boston,419 Faneuil St,02135,419 Faneuil St,2135.0,10615.0,Library,Library,12.4,132134.2,117695.0,14439.2,,,,,,,,,,,,,2021
+107073,2100210000,trustees of boston university,856 Beacon St                                       ,02115,856-862 Beacon St,2115.0,39733.0,Multifamily Housing,Multifamily Housing,101.5,4033627.2,3516602.6,517024.5,,,,,,,,,,,,,2021
+107091,0402024000,wentworth institute,550 Huntington Ave,02115,550 Huntington Av,2115.0,22780.0,College/University,College/University,316.6,7213182.7,659923.8,6553257.8,,,,,,,,,,,,4142215.0,2021
+107103,0402044000,wentworth institute of technology inc,550 Parker St,02115,55 Annunciation Rd,2120.0,52009.0,College/University,College/University,167.4,8707127.2,5682442.1,3024685.1,,,,,,,,,,,,23642154.0,2021
+107168,0903671000,boston housing auth,52-68 Highland Park,02119,,,204444.5751,Multifamily Housing," ,  ",118.9861635,22482654.17,3451942.459,4089164.289,,,,,,,,,,,,,2021
+107173,0302726004,us reif 100 cambridge street,100 Cambridge St,02114,100 Cambridge St,2114.0,780614.0,Office,,54.9,42844820.9,4704738.8,38140086.6,,,,,,,,,,,,,2021
+107188,1203486002,city of boston,1-2-Admin Building,02124,Morton St,2124.0,19826.0,Office,,53.5,1060916.4,,,,,,,,,,,,,,22121298.0,2021
+107273,2101724000,washington square condo tr,1560 - 1576 Commonwealth Ave,02135,309  319 Allston St,2135.0,70109.0,Multifamily Housing,,75.4,5289604.9,30782.2,706464.8,,,,,,,,,,,,,2021

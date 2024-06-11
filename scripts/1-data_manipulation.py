@@ -111,6 +111,7 @@ df_with_drop_2022 = df_with_drop_2022.drop(df_with_drop_2022.columns[column_inde
 df_with_drop_2023 = df_with_drop_2023.drop(df_with_drop_2023.columns[column_index], axis=1)
 
 
+
 # Fill empty cells in Building Address column with an empty string
 df_with_drop_2022['Building Address'] = df_with_drop_2022['Building Address'].fillna('')
 df_with_drop_2023['Building Address'] = df_with_drop_2023['Building Address'].fillna('')
@@ -258,8 +259,14 @@ print(df_berdo_never_reported['BERDO ID'].nunique())
 print(df_berdo_never_reported.shape)
 
 # Remove unique identifiers used for filtering duplicates
-df_berdo_reported_2022.drop('_id', axis=1, inplace=True)
+df_berdo_reported_2022.drop(['_id', 'Unnamed: 40'], axis=1, inplace=True)
 df_berdo_reported_2023.drop('_id', axis=1, inplace=True)
+
+# Replace Site EUI column in 2023 data with a propertly encoded one
+column_index_EUI = 10
+df_berdo_reported_2023['Site EUI (Energy Use Intensity kBtu/ft2)'] = df_berdo_reported_2023.iloc[:, column_index_EUI]
+df_berdo_reported_2023.drop(df_berdo_reported_2023.columns[column_index_EUI], axis=1, inplace=True)
+
 
 # Download data into separate .csv files
 df_berdo_reported_2022.to_csv('../data-files/2-berdo_reported_2022.csv', index=False)
