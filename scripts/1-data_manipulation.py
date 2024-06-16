@@ -10,14 +10,26 @@ def fix_encoding(text):
 
 def standardize_address_extended(address):
     """
-    Input: list of addresses and standardizes the address formatting
-    Output: Standardized address formatted for use in the
-    """
+    Standardizes various components of an address string to a consistent format.
 
+    This function takes an address string and replaces certain address components
+    with their standardized abbreviations. It handles common street types such as
+    "Avenue", "Street", "Highway", "Road", "Boulevard", "Drive", and "Parkway",
+    converting them to their respective abbreviations like "Ave", "St", "Hwy",
+    "Rd", "Blvd", "Dr", and "Pkwy". The function ignores case and matches both
+    with and without trailing periods.
+
+    Parameters:
+    address (str): The address string to be standardized.
+
+    Returns:
+    str: The standardized address string with the appropriate components replaced.
+    """
     # Extend the patterns to include more address components
     patterns_extended = {
         r'\bAve\b\.?': 'Ave',      # Matches "Ave" and "Ave." with "Ave"
         r'\bAvenue\b': 'Ave',      # Matches "Avenue" with "Ave"
+        r'\bAv\b\.?': 'Ave',       # Matches "Av" and "Av." with "Ave"
         r'\bStreet\b': 'St',       # Matches "Street" with "St"
         r'\bSt\b\.?': 'St',        # Matches "St" and "St." with "St"
         r'\bHighway\b': 'Hwy',     # Matches "Highway" with "Hwy"
@@ -26,13 +38,27 @@ def standardize_address_extended(address):
         r'\bRd\b\.?': 'Rd',        # Matches "Rd" and "Rd." with "Rd"
         r'\bBoulevard\b': 'Blvd',  # Matches "Boulevard" with "Blvd"
         r'\bBlvd\b\.?': 'Blvd',    # Matches "Blvd" and "Blvd." with "Blvd"
+        r'\bBl\b\.?': 'Blvd',      # Matches "Bl" and "Bl." with "Blvd"
         r'\bDrive\b': 'Dr',        # Matches "Drive" with "Dr"
         r'\bDr\b\.?': 'Dr',        # Matches "Dr" and "Dr." with "Dr"
         r'\bParkway\b': 'Pkwy',    # Matches "Parkway" with "Pkwy"
     }
+
+    # Ensure the address is title-cased
+    address = address.title()
+
+    # Do not capitalize "and" if it is a standalone word
+    address = re.sub(r'\bAnd\b', 'and', address)
+
+    # Do not capitalize an 's' following an apostrophe
+    address = re.sub(r"\'S\b", "'s", address)
+
     # Iterate over the patterns and apply the replacements
     for pattern, replacement in patterns_extended.items():
         address = re.sub(pattern, replacement, address, flags=re.IGNORECASE)
+
+    # Fix the capitalization issue for ordinal numbers
+    address = re.sub(r'(\d+)([A-Za-z]+)', lambda x: x.group(1) + x.group(2).lower(), address)
 
     return address
 
@@ -110,8 +136,6 @@ column_index = 25
 df_with_drop_2022 = df_with_drop_2022.drop(df_with_drop_2022.columns[column_index], axis=1)
 df_with_drop_2023 = df_with_drop_2023.drop(df_with_drop_2023.columns[column_index], axis=1)
 
-
-
 # Fill empty cells in Building Address column with an empty string
 df_with_drop_2022['Building Address'] = df_with_drop_2022['Building Address'].fillna('')
 df_with_drop_2023['Building Address'] = df_with_drop_2023['Building Address'].fillna('')
@@ -121,19 +145,12 @@ df_with_drop_2023['Parcel Address'] = df_with_drop_2023['Parcel Address'].fillna
 df_with_drop_2022['Parcel Address'] = df_with_drop_2022['Parcel Address'].fillna('')
 
 # Convert columns to string dtype
-df_with_drop_2023['Building Address'] = df_with_drop_2023['Building Address'].astype('string')
-df_with_drop_2023['Parcel Address'] = df_with_drop_2023['Parcel Address'].astype('string')
+df_with_drop_2023['Building Address'] = df_with_drop_2023['Building Address'].astype(str)
+df_with_drop_2023['Parcel Address'] = df_with_drop_2023['Parcel Address'].astype(str)
 
-df_with_drop_2022['Building Address'] = df_with_drop_2022['Building Address'].astype('string')
-df_with_drop_2022['Parcel Address'] = df_with_drop_2022['Parcel Address'].astype('string')
+df_with_drop_2022['Building Address'] = df_with_drop_2022['Building Address'].astype(str)
+df_with_drop_2022['Parcel Address'] = df_with_drop_2022['Parcel Address'].astype(str)
 
-# Change df Building Address column to Title Case
-df_with_drop_2023['Building Address'] = df_with_drop_2023['Building Address'].str.title()
-df_with_drop_2022['Building Address'] = df_with_drop_2022['Building Address'].str.title()
-
-# Change df Parcel Address column to Title Case
-df_with_drop_2023['Parcel Address'] = df_with_drop_2023['Parcel Address'].str.title()
-df_with_drop_2022['Parcel Address'] = df_with_drop_2022['Parcel Address'].str.title()
 
 
 # Create a copy of the data to avoid unexpected data issues later on
@@ -248,6 +265,9 @@ df_berdo_reported_2022 = df_berdo_reported_2022[df_berdo_reported_2022['_id'] !=
 # Get rid of duplicates for 52-68 Highland Park
 df_berdo_reported_2022 = df_berdo_reported_2022[df_berdo_reported_2022['_id'] != 2312]
 
+# Add GFA for BERDO ID 104612
+df_berdo_reported_2023.loc[df_berdo_reported_2023['_id'] == 2708, 'Reported Gross Floor Area (Sq Ft)'] = 13440
+
 # Check number of reported and non-reported data so that the total matches the total number of properties
 print(df_clean_2023['BERDO ID'].nunique())
 print(df_clean_2023.shape)
@@ -267,6 +287,12 @@ column_index_EUI = 10
 df_berdo_reported_2023['Site EUI (Energy Use Intensity kBtu/ft2)'] = df_berdo_reported_2023.iloc[:, column_index_EUI]
 df_berdo_reported_2023.drop(df_berdo_reported_2023.columns[column_index_EUI], axis=1, inplace=True)
 
+# # Add leading zero to zip codes
+# df_berdo_reported_2022['Building Address Zip Code'] = df_berdo_reported_2022['Building Address Zip Code'].astype(int)
+# df_berdo_reported_2022['Parcel Address Zip Code'] = df_berdo_reported_2022['Parcel Address Zip Code'].astype(int)
+#
+# df_berdo_reported_2023['Building Address Zip Code'] = df_berdo_reported_2023['Building Address Zip Code'].astype(int)
+# df_berdo_reported_2023['Parcel Address Zip Code'] = df_berdo_reported_2023['Parcel Address Zip Code'].astype(int)
 
 # Download data into separate .csv files
 df_berdo_reported_2022.to_csv('../data-files/2-berdo_reported_2022.csv', index=False)
@@ -274,5 +300,5 @@ df_berdo_reported_2023.to_csv('../data-files/2-berdo_reported_2023.csv', index=F
 df_berdo_never_reported.to_csv('../data-files/2-berdo_never_reported.csv', index=False)
 
 # # Checking for duplicate values in dataset
-duplicate_ids_2022 = check_for_duplicates(df_berdo_reported_2022, 'BERDO ID')
-duplicate_ids_2023 = check_for_duplicates(df_berdo_reported_2023, 'BERDO ID')
+# duplicate_ids_2022 = check_for_duplicates(df_berdo_reported_2022, 'BERDO ID')
+# duplicate_ids_2023 = check_for_duplicates(df_berdo_reported_2023, 'BERDO ID')
