@@ -199,11 +199,13 @@ df_property_types = pd.read_csv(file_path_property_types)
 
 # Merge BERDO property types to the Largest Property Type column of df_berdo_buildings
 df_berdo_buildings_merged = df_berdo_buildings.merge(df_property_types, on='Largest Property Type', how='left')
-df_berdo_buildings_merged = df_berdo_buildings_merged.drop(['Unnamed: 2'], axis=1)
+# df_berdo_buildings_merged = df_berdo_buildings_merged.drop(['Unnamed: 2'], axis=1)
 
 # Send data to CSV for further processing
 df_berdo_campuses.to_csv('../data-files/1-preprocessed-emissions-data/2-berdo-campus-emissions-data.csv', index=False)
 df_berdo_buildings_merged.to_csv('../data-files/1-preprocessed-emissions-data/1-berdo-emissions-data.csv', index=False)
+
+print(df_berdo_buildings_merged.shape)
 
 
 

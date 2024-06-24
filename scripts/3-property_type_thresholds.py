@@ -42,6 +42,8 @@ df_pivot = df_merged.pivot_table(index=columns_final, columns='Year', values='Th
 # Add the Threshold columns
 df_pivot.columns = (columns_final + [f'Threshold {year}' for year in df_pivot.columns[51:]])
 
+df_pivot.to_csv('../data-files/1-preprocessed-emissions-data/3-berdo-threshold-data.csv', index=False)
+
 print(df_pivot.head())
 print(df_pivot.shape)
 
