@@ -265,6 +265,9 @@ df_berdo_reported_2022 = df_berdo_reported_2022[df_berdo_reported_2022['_id'] !=
 # Get rid of duplicates for 52-68 Highland Park
 df_berdo_reported_2022 = df_berdo_reported_2022[df_berdo_reported_2022['_id'] != 2312]
 
+# Get rid of duplicates for 3033-3039 Washington St
+df_berdo_reported_2023 = df_berdo_reported_2023[df_berdo_reported_2023['_id'] != 830]
+
 # Add GFA for BERDO ID 104612
 df_berdo_reported_2023.loc[df_berdo_reported_2023['_id'] == 2708, 'Reported Gross Floor Area (Sq Ft)'] = 13440
 
@@ -277,6 +280,7 @@ print(df_berdo_reported_2022['BERDO ID'].nunique())
 print(df_berdo_reported_2022.shape)
 print(df_berdo_never_reported['BERDO ID'].nunique())
 print(df_berdo_never_reported.shape)
+
 
 # Remove unique identifiers used for filtering duplicates
 df_berdo_reported_2022.drop(['_id', 'Unnamed: 40'], axis=1, inplace=True)
@@ -294,10 +298,10 @@ df_berdo_reported_2023.drop(df_berdo_reported_2023.columns[column_index_EUI], ax
 # df_berdo_reported_2023['Building Address Zip Code'] = df_berdo_reported_2023['Building Address Zip Code'].astype(int)
 # df_berdo_reported_2023['Parcel Address Zip Code'] = df_berdo_reported_2023['Parcel Address Zip Code'].astype(int)
 
-# Download data into separate .csv files
-df_berdo_reported_2022.to_csv('../data-files/2-berdo_reported_2022.csv', index=False)
-df_berdo_reported_2023.to_csv('../data-files/2-berdo_reported_2023.csv', index=False)
-df_berdo_never_reported.to_csv('../data-files/2-berdo_never_reported.csv', index=False)
+# # Download data into separate .csv files
+# df_berdo_reported_2022.to_csv('../data-files/2-berdo_reported_2022.csv', index=False)
+# df_berdo_reported_2023.to_csv('../data-files/2-berdo_reported_2023.csv', index=False)
+# df_berdo_never_reported.to_csv('../data-files/2-berdo_never_reported.csv', index=False)
 
 # # Checking for duplicate values in dataset
 # duplicate_ids_2022 = check_for_duplicates(df_berdo_reported_2022, 'BERDO ID')

@@ -19,6 +19,10 @@ columns_final = ['BERDO ID', 'Tax Parcel ID', 'Property Owner Name', 'Building A
                  'Kerosene Emissions (MT CO2e)', 'District Chilled Water Emissions (MT CO2e)',
                  'District Steam Emissions (MT CO2e)', 'Total GHG Emissions (MT CO2e)', 'BERDO Property Type']
 
+# Columns for buildings_table
+columns_building_table = ['BERDO ID', 'Building Address', 'Building Address Zip Code', 'Property Owner Name',
+                          'Reported Gross Floor Area (Sq Ft)', 'Largest Property Type', 'All Property Types']
+
 # File path to preprocessed emissions data
 file_path_emissions_data = '../data-files/1-preprocessed-emissions-data/1-berdo-emissions-data.csv'
 # File path to yearly BERDO thresholds by property type
@@ -42,8 +46,30 @@ df_pivot = df_merged.pivot_table(index=columns_final, columns='Year', values='Th
 # Add the Threshold columns
 df_pivot.columns = (columns_final + [f'Threshold {year}' for year in df_pivot.columns[51:]])
 
-df_pivot.to_csv('../data-files/1-preprocessed-emissions-data/3-berdo-threshold-data.csv', index=False)
-
 print(df_pivot.head())
 print(df_pivot.shape)
+
+# Create DataFrame for 'buildings' PostgreSQL table and reset index
+df_buildings_table = df_pivot[columns_building_table].copy()
+df_buildings_table.reset_index(drop=True, inplace=True)
+
+# Convert data types for Zip Code and GFA to correct format
+df_buildings_table['Building Address Zip Code'] = df_buildings_table['Building Address Zip Code'].astype(int)
+df_buildings_table['Reported Gross Floor Area (Sq Ft)'] = (df_buildings_table['Reported Gross Floor Area (Sq Ft)']
+                                                           .astype(int))
+
+# Rename columns to match PostgreSQL Tables
+df_buildings_table.rename(columns={
+    'BERDO ID': 'reporting_id',
+    'Building Address': 'address',
+    'Building Address Zip Code': 'zip_code',
+    'Property Owner Name': 'owner_name',
+    'Reported Gross Floor Area (Sq Ft)': 'property_gfa',
+    'Largest Property Type': 'primary_property_type',
+    'All Property Types': 'all_property_types'
+})
+
+# Send buildings table data to CSV for SQL upload
+df_buildings_table.to_csv('../data-files/2-sql-tables/1-buildings-table.csv', index=False)
+
 
