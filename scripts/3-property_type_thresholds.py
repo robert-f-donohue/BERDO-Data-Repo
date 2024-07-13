@@ -101,16 +101,16 @@ def transform_emissions_thresholds(df):
     """
     # Filter for columns of interest: Reporting ID and Threshold columns
     threshold_columns = [col for col in df.columns if 'Threshold' in col]
-    df_filtered = df[['Reporting ID'] + threshold_columns].copy()
+    df_filtered = df[['BERDO ID'] + threshold_columns].copy()
 
     # Melt the dataframe to unpivot the threshold columns
-    df_melted = df_filtered.melt(id_vars=["Reporting ID"], var_name="Year", value_name="Threshold MT CO2e")
+    df_melted = df_filtered.melt(id_vars=["BERDO ID"], var_name="Year", value_name="Threshold MT CO2e")
 
     # Extract the year from the "Year" column
     df_melted["Year"] = df_melted["Year"].str.extract(r'(\d+)').astype(int)
 
     # Rename columns to match the target structure
-    df_melted.rename(columns={"Reporting ID": "building_id", "Year": "year", "Threshold MT CO2e": "threshold_mt_co2e"},
+    df_melted.rename(columns={"BERDO ID": "building_id", "Year": "year", "Threshold MT CO2e": "threshold_mt_co2e"},
                      inplace=True)
 
     # Assuming "Building ID" needs to be mapped to a foreign key, this example will simply use a placeholder transformation.
@@ -147,10 +147,10 @@ columns_building_table = ['BERDO ID', 'Building Address', 'Building Address Zip 
 
 # Columns for energy_usage_table
 columns_energy_usage_table = ['BERDO ID', 'Natural Gas Usage (kBtu)', 'Electricity Usage (kBtu)',
-                              'District Hot Water Usage (kBtu)', 'District Chilled Water Usage (kBtu)',
-                              'District Steam Usage (kBtu)', 'Fuel Oil 1 Usage (kBtu)', 'Fuel Oil 2 Usage (kBtu)',
-                              'Fuel Oil 4 Usage (kBtu)', 'Fuel Oil 5 and 6 Usage (kBtu)', 'Propane Usage (kBtu)',
-                              'Diesel Usage (kBtu)', 'Kerosene Usage (kBtu)']
+                              'District Chilled Water Usage (kBtu)', 'District Steam Usage (kBtu)',
+                              'Fuel Oil 1 Usage (kBtu)', 'Fuel Oil 2 Usage (kBtu)', 'Fuel Oil 4 Usage (kBtu)',
+                              'Fuel Oil 5 and 6 Usage (kBtu)', 'Propane Usage (kBtu)', 'Diesel Usage (kBtu)',
+                              'Kerosene Usage (kBtu)']
 
 # File path to preprocessed emissions data
 file_path_emissions_data = '../data-files/1-preprocessed-emissions-data/1-berdo-emissions-data.csv'
@@ -210,7 +210,6 @@ df_energy_usage_table.reset_index(drop=True, inplace=True)
 df_energy_usage_table = df_energy_usage_table.rename(columns={
     'BERDO ID': 'reporting_id',
     'Electricity Usage (kBtu)': 'electricity',
-    'Renewable System Electricity Usage Onsite (kBtu)': 'renewable_electricity',
     'Natural Gas Usage (kBtu)': 'natural_gas',
     'Fuel Oil 1 Usage (kBtu)': 'fuel_oil_1',
     'Fuel Oil 2 Usage (kBtu)': 'fuel_oil_2',
@@ -219,7 +218,7 @@ df_energy_usage_table = df_energy_usage_table.rename(columns={
     'Propane Usage (kBtu)': 'propane',
     'Diesel Usage (kBtu)': 'diesel_2',
     'Kerosene Usage (kBtu)': 'kerosene',
-    'District Chilled Water Usage (kBtu)': 'district_child_water',
+    'District Chilled Water Usage (kBtu)': 'district_chilled_water',
     'District Steam Usage (kBtu)': 'district_steam'
 })
 
@@ -255,8 +254,37 @@ df_transformed_emissions_factors = df_transformed_emissions_factors[df_transform
 
 print(df_transformed_emissions_factors.head())
 
-# Send transformed DataFrame to .csv to be uploaded to PostgreSQL
-df_transformed_emissions_factors.to_csv('../data-files/2-sql-tables/3-emissions-factors-table_df.csv', index=False)
+# Send transformed emissions factor DataFrame to CSV to be uploaded to PostgreSQL
+df_transformed_emissions_factors.to_csv('../data-files/2-sql-tables/3-emissions-factors-table.csv', index=False)
+
+# Transform BERDO DataFrame (df_pivot) to melt the yearly emissions thresholds
+df_transformed_emissions_thresholds = transform_emissions_thresholds(df_pivot)
+
+# Send transformed emissions threshold DataFrame to CSV to be uploaded to PostgreSQL
+df_transformed_emissions_thresholds.to_csv('../data-files/2-sql-tables/4-emissions-thresholds-table.csv', index=False)
 
 
+# Add unique identifiers to each dataframe
+df_transformed_energy_usage_table['usage_id'] = range(1, len(df_transformed_energy_usage_table) + 1)
+df_transformed_emissions_factors['factor_id'] = range(1, len(df_transformed_emissions_factors) + 1)
 
+# Merge the dataframes on 'year' and 'energy_type', ensuring to keep the unique identifiers
+df_energy_and_factors = pd.merge(
+    df_transformed_energy_usage_table,
+    df_transformed_emissions_factors,
+    on=['year', 'energy_type'],
+    how='inner'
+)
+
+# Calculate emissions_mt_co2e
+df_energy_and_factors['emissions_mt_co2e'] = ((df_energy_and_factors['usage'] / 1000) *
+                                              (df_energy_and_factors['emissions_kgco2e_per_unit'] / 1000))
+
+# Select the necessary columns for the final dataframe, including the foreign keys
+df_calculated_emissions_table = df_energy_and_factors[['usage_id', 'factor_id', 'emissions_mt_co2e']]
+
+df_calculated_emissions_table.to_csv('../data-files/2-sql-tables/5-calculated-emissions-table.csv', index=False)
+
+print(df_calculated_emissions_table.head())
+print(df_calculated_emissions_table.shape)
+print(df_transformed_energy_usage_table.shape)
