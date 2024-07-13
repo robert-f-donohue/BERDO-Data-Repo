@@ -67,9 +67,11 @@ df_buildings_table.rename(columns={
     'Reported Gross Floor Area (Sq Ft)': 'property_gfa',
     'Largest Property Type': 'primary_property_type',
     'All Property Types': 'all_property_types'
-})
+}, inplace=True)
 
 # Send buildings table data to CSV for SQL upload
 df_buildings_table.to_csv('../data-files/2-sql-tables/1-buildings-table.csv', index=False)
+
+print(df_buildings_table['zip_code'])
 
 
