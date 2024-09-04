@@ -1,0 +1,75 @@
+﻿Largest Property Type,BERDO Property Type
+Adult Education,Education
+Ambulatory Surgical Center,Healthcare
+Automobile Dealership,Retail
+Bank Branch,Retail
+Bar/Nightclub N/A,Food Sales & Service
+College/University,College/University
+Convenience Store without Gas Station,Services
+Convention Center,Assembly
+Courthouse,Services
+Data Center,Technology/Science
+Distribution Center,Storage
+Enclosed Mall,Retail
+Energy/Power Station,Services
+Fast Food Restaurant,Food Sales & Service
+Financial Office,Office
+Fire Station,Services
+Fitness Center/Health Club/Gym,Assembly
+Food Sales,Food Sales & Service
+Food Service,Food Sales & Service
+Hospital (General Medical & Surgical),Healthcare
+Hospital,Healthcare
+Hotel,Lodging
+Ice/Curling Rink,Assembly
+Indoor Arena,Assembly
+K-12 School,Education
+Laboratory,Technology/Science
+Library,Services
+Manufacturing/Industrial Plant,Manufacturing/Industrial
+Medical Office,Healthcare
+Movie Theater,Assembly
+Multifamily Housing,Multifamily Housing
+Museum,Assembly
+Non-Refrigerated Warehouse,Storage
+Office,Office
+Other,Property Type Not Recognized in Database
+Other - Education,Education
+Other - Entertainment/Public Assembly,Assembly
+Other - Lodging/Residential,Lodging
+Other - Mall,Retail
+Other - Public Services,Services
+Other - Recreation,Assembly
+Other - Services,Services
+Other - Specialty Hospital,Healthcare
+Other - Stadium,Assembly
+Other - Technology/Science,Technology/Science
+Other - Utility,Services
+Other/Specialty Hospital,Healthcare
+Outpatient Rehabilitation/Physical Therapy,Healthcare
+Performing Arts,Assembly
+Police Station,Services
+Pre-school/Daycare,Education
+Prison/Incarceration,Property Type Not Recognized in Database
+Race Track,Assembly
+Refrigerated Warehouse,Storage
+"Repair Services (Vehicle, Shoe, Locksmith, etc)",Services
+"Repair Services (Vehicle, Shoe, Locksmith, etc.)",Services
+Residence Hall/Dormitory,Lodging
+Residential Care Facility,Lodging
+Restaurant,Food Sales & Service
+Retail Store,Retail
+Self-Storage Facility,Storage
+Senior Living Community,Lodging
+Single Family Home,Multifamily Housing
+Single-Family Home,Multifamily Housing
+Social/Meeting Hall,Assembly
+Stadium (Open),Assembly
+Storage,Storage
+Strip Mall,Retail
+Supermarket/Grocery Store,Food Sales & Service
+Urgent Care/Clinic/Other Outpatient,Healthcare
+Vocational School,Education
+Wholesale Club/Supercenter,Retail
+Worship Facility,Assembly
+Zoo,Assembly
